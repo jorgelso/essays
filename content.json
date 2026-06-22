@@ -1,104 +1,4 @@
 {
-  "passages": [],
-  "themes": [
-    {
-      "accent": "sky",
-      "id": "absurd",
-      "question": {
-        "en": "If the world will not answer, how do we go on asking?",
-        "es": "Si el mundo no responde, ¿cómo seguimos preguntando?"
-      },
-      "title": {
-        "en": "The Absurd",
-        "es": "Lo absurdo"
-      }
-    },
-    {
-      "accent": "peach",
-      "id": "suffering",
-      "question": {
-        "en": "Does pain mean anything, or do we only insist that it must?",
-        "es": "¿Significa algo el dolor, o solo insistimos en que debe significarlo?"
-      },
-      "title": {
-        "en": "Suffering",
-        "es": "El sufrimiento"
-      }
-    },
-    {
-      "accent": "mauve",
-      "id": "despair",
-      "question": {
-        "en": "When hope is gone, is anything left?",
-        "es": "Cuando la esperanza se va, ¿queda algo?"
-      },
-      "title": {
-        "en": "Despair",
-        "es": "La desesperación"
-      }
-    },
-    {
-      "accent": "sage",
-      "id": "solitude",
-      "question": {
-        "en": "Is being alone an emptiness, or a room of one's own?",
-        "es": "¿Estar solo es un vacío, o un cuarto propio?"
-      },
-      "title": {
-        "en": "Solitude",
-        "es": "La soledad"
-      }
-    },
-    {
-      "accent": "clay",
-      "id": "romanticization",
-      "question": {
-        "en": "When does sadness stop being felt and start being worn?",
-        "es": "¿Cuándo deja la tristeza de sentirse y empieza a llevarse puesta?"
-      },
-      "title": {
-        "en": "The Romanticization of Sorrow",
-        "es": "La romantización de la tristeza"
-      }
-    },
-    {
-      "accent": "clayDeep",
-      "id": "revolt",
-      "question": {
-        "en": "Can you refuse despair without lying to yourself?",
-        "es": "¿Se puede rechazar la desesperación sin mentirse?"
-      },
-      "title": {
-        "en": "Revolt",
-        "es": "La rebeldía"
-      }
-    },
-    {
-      "accent": "clay",
-      "id": "mortality",
-      "question": {
-        "en": "Is death the end of meaning, or the thing that gives it weight?",
-        "es": "¿Es la muerte el fin del sentido, o lo que le da peso?"
-      },
-      "title": {
-        "en": "Death",
-        "es": "La muerte"
-      }
-    },
-    {
-      "accent": "peach",
-      "id": "boredom",
-      "question": {
-        "en": "Is an empty hour only discomfort, or a glimpse of something true?",
-        "es": "¿Una hora vacía es solo incomodidad, o un atisbo de algo verdadero?"
-      },
-      "title": {
-        "en": "Boredom",
-        "es": "El hastío"
-      }
-    }
-  ],
-  "theses": [],
   "version": 1,
   "voices": [
     {
@@ -452,5 +352,156 @@
       "id": "sorjuana",
       "name": "Sor Juana Inés de la Cruz"
     }
-  ]
+  ],
+  "themes": [
+    {
+      "accent": "sky",
+      "id": "absurd",
+      "question": {
+        "en": "If the world will not answer, how do we go on asking?",
+        "es": "Si el mundo no responde, ¿cómo seguimos preguntando?"
+      },
+      "title": {
+        "en": "The Absurd",
+        "es": "Lo absurdo"
+      }
+    },
+    {
+      "accent": "peach",
+      "id": "suffering",
+      "question": {
+        "en": "Does pain mean anything, or do we only insist that it must?",
+        "es": "¿Significa algo el dolor, o solo insistimos en que debe significarlo?"
+      },
+      "title": {
+        "en": "Suffering",
+        "es": "El sufrimiento"
+      }
+    },
+    {
+      "accent": "mauve",
+      "id": "despair",
+      "question": {
+        "en": "When hope is gone, is anything left?",
+        "es": "Cuando la esperanza se va, ¿queda algo?"
+      },
+      "title": {
+        "en": "Despair",
+        "es": "La desesperación"
+      }
+    },
+    {
+      "accent": "sage",
+      "id": "solitude",
+      "question": {
+        "en": "Is being alone an emptiness, or a room of one's own?",
+        "es": "¿Estar solo es un vacío, o un cuarto propio?"
+      },
+      "title": {
+        "en": "Solitude",
+        "es": "La soledad"
+      }
+    },
+    {
+      "accent": "clay",
+      "id": "romanticization",
+      "question": {
+        "en": "When does sadness stop being felt and start being worn?",
+        "es": "¿Cuándo deja la tristeza de sentirse y empieza a llevarse puesta?"
+      },
+      "title": {
+        "en": "The Romanticization of Sorrow",
+        "es": "La romantización de la tristeza"
+      }
+    },
+    {
+      "accent": "clayDeep",
+      "id": "revolt",
+      "question": {
+        "en": "Can you refuse despair without lying to yourself?",
+        "es": "¿Se puede rechazar la desesperación sin mentirse?"
+      },
+      "title": {
+        "en": "Revolt",
+        "es": "La rebeldía"
+      }
+    },
+    {
+      "accent": "clay",
+      "id": "mortality",
+      "question": {
+        "en": "Is death the end of meaning, or the thing that gives it weight?",
+        "es": "¿Es la muerte el fin del sentido, o lo que le da peso?"
+      },
+      "title": {
+        "en": "Death",
+        "es": "La muerte"
+      }
+    },
+    {
+      "accent": "peach",
+      "id": "boredom",
+      "question": {
+        "en": "Is an empty hour only discomfort, or a glimpse of something true?",
+        "es": "¿Una hora vacía es solo incomodidad, o un atisbo de algo verdadero?"
+      },
+      "title": {
+        "en": "Boredom",
+        "es": "El hastío"
+      }
+    }
+  ],
+  "theses": [
+    {
+      "id": "test",
+      "kind": "argument",
+      "accent": "mauve",
+      "narrator": null,
+      "witnesses": [],
+      "title": {
+        "en": "test title",
+        "es": "test title Español"
+      },
+      "dek": {
+        "en": "test dek",
+        "es": "test dek español"
+      },
+      "body": [
+        {
+          "type": "lead",
+          "en": "test lead",
+          "es": "test lead español"
+        },
+        {
+          "type": "paragraph",
+          "en": "test paragrpah",
+          "es": "test paragrpah español"
+        },
+        {
+          "type": "aside",
+          "en": "test aside",
+          "es": "test aside español"
+        },
+        {
+          "type": "paragraph",
+          "en": "test paragraph 2",
+          "es": "test paragraph 2 español"
+        },
+        {
+          "type": "turn"
+        },
+        {
+          "type": "paragraph",
+          "en": "test paragraph 3 after turn",
+          "es": "test paragraph 3 after turn español"
+        },
+        {
+          "type": "question",
+          "en": "test question",
+          "es": "test question"
+        }
+      ]
+    }
+  ],
+  "passages": []
 }
