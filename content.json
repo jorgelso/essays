@@ -1,3099 +1,456 @@
 {
-  "passages" : [
+  "passages": [],
+  "themes": [
     {
-      "id" : "nietzsche-suffering-why",
-      "quote" : {
-        "en" : "He who has a why to live for can bear almost any how.",
-        "es" : "Quien tiene un porqué para vivir puede soportar casi cualquier cómo."
+      "accent": "sky",
+      "id": "absurd",
+      "question": {
+        "en": "If the world will not answer, how do we go on asking?",
+        "es": "Si el mundo no responde, ¿cómo seguimos preguntando?"
       },
-      "reflection" : [
-        {
-          "en" : "Notice that the why is not given, only its power. Nietzsche is not promising that meaning arrives.",
-          "es" : "Fíjate en que el porqué no se da, solo su fuerza. Nietzsche no promete que el sentido llegue.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "He is observing that without one the smallest weight is unbearable, and with one almost anything can be carried.",
-          "es" : "Observa que sin uno el menor peso es insoportable, y con uno casi todo puede cargarse.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "suffering",
-      "voiceID" : "nietzsche",
-      "work" : {
-        "en" : "Twilight of the Idols, 1888",
-        "es" : "El crepúsculo de los ídolos, 1888"
+      "title": {
+        "en": "The Absurd",
+        "es": "Lo absurdo"
       }
     },
     {
-      "id" : "nietzsche-suffering-stronger",
-      "quote" : {
-        "en" : "What does not kill me makes me stronger.",
-        "es" : "Lo que no me mata me hace más fuerte."
+      "accent": "peach",
+      "id": "suffering",
+      "question": {
+        "en": "Does pain mean anything, or do we only insist that it must?",
+        "es": "¿Significa algo el dolor, o solo insistimos en que debe significarlo?"
       },
-      "reflection" : [
-        {
-          "en" : "The most quoted and most misused line he wrote. He meant a hard discipline of the self, not a slogan for any wound.",
-          "es" : "La línea más citada y más mal usada que escribió. Se refería a una disciplina dura del yo, no a un lema para cualquier herida.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Some things that do not kill you simply maim you. Hold the line and its cost together.",
-          "es" : "Algunas cosas que no te matan simplemente te mutilan. Sostén juntos la frase y su costo.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "suffering",
-      "voiceID" : "nietzsche",
-      "work" : {
-        "en" : "Twilight of the Idols, 1888",
-        "es" : "El crepúsculo de los ídolos, 1888"
+      "title": {
+        "en": "Suffering",
+        "es": "El sufrimiento"
       }
     },
     {
-      "id" : "nietzsche-romantic-abyss",
-      "quote" : {
-        "en" : "If you gaze long into an abyss, the abyss also gazes into you.",
-        "es" : "Si miras largo tiempo al abismo, el abismo también mira dentro de ti."
+      "accent": "mauve",
+      "id": "despair",
+      "question": {
+        "en": "When hope is gone, is anything left?",
+        "es": "Cuando la esperanza se va, ¿queda algo?"
       },
-      "reflection" : [
-        {
-          "en" : "The line everyone quotes for atmosphere is actually a caution. Look long enough at the void and it leaves a mark. Contemplation is not free.",
-          "es" : "La línea que todos citan por atmósfera es en realidad una advertencia. Mira lo bastante al vacío y te deja una marca. La contemplación no es gratis.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "There is a difference between facing the dark and moving in.",
-          "es" : "Hay una diferencia entre encarar la oscuridad y mudarse a ella.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "romanticization",
-      "voiceID" : "nietzsche",
-      "work" : {
-        "en" : "Beyond Good and Evil, 1886",
-        "es" : "Más allá del bien y del mal, 1886"
+      "title": {
+        "en": "Despair",
+        "es": "La desesperación"
       }
     },
     {
-      "id" : "nietzsche-revolt-star",
-      "quote" : {
-        "en" : "One must still have chaos in oneself to be able to give birth to a dancing star.",
-        "es" : "Hay que tener todavía caos dentro de sí para poder dar a luz una estrella danzarina."
+      "accent": "sage",
+      "id": "solitude",
+      "question": {
+        "en": "Is being alone an emptiness, or a room of one's own?",
+        "es": "¿Estar solo es un vacío, o un cuarto propio?"
       },
-      "reflection" : [
-        {
-          "en" : "The chaos is not the enemy of the work. It is the material. Nietzsche refuses the tidy self as a creative dead end.",
-          "es" : "El caos no es el enemigo de la obra. Es su material. Nietzsche rechaza el yo pulcro como un callejón sin salida creativo.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "What is unruly in you is also what might make something move.",
-          "es" : "Lo que en ti es indócil es también lo que podría hacer que algo se mueva.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "revolt",
-      "voiceID" : "nietzsche",
-      "work" : {
-        "en" : "Thus Spoke Zarathustra, 1883",
-        "es" : "Así habló Zaratustra, 1883"
+      "title": {
+        "en": "Solitude",
+        "es": "La soledad"
       }
     },
     {
-      "id" : "nietzsche-revolt-become",
-      "quote" : {
-        "en" : "Become what you are.",
-        "es" : "Llega a ser el que eres."
+      "accent": "clay",
+      "id": "romanticization",
+      "question": {
+        "en": "When does sadness stop being felt and start being worn?",
+        "es": "¿Cuándo deja la tristeza de sentirse y empieza a llevarse puesta?"
       },
-      "reflection" : [
-        {
-          "en" : "Not invent yourself from nothing, but arrive at what was already yours to be. The command assumes there is something to become, and dares you to stop avoiding it.",
-          "es" : "No inventarte de la nada, sino llegar a lo que ya era tuyo por ser. La orden supone que hay algo en lo que convertirse, y te reta a dejar de evitarlo.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "revolt",
-      "voiceID" : "nietzsche",
-      "work" : {
-        "en" : "The Gay Science, 1882",
-        "es" : "La gaya ciencia, 1882"
+      "title": {
+        "en": "The Romanticization of Sorrow",
+        "es": "La romantización de la tristeza"
       }
     },
     {
-      "id" : "nietzsche-boredom-gods",
-      "quote" : {
-        "en" : "Against boredom even the gods struggle in vain.",
-        "es" : "Contra el aburrimiento, hasta los dioses luchan en vano."
+      "accent": "clayDeep",
+      "id": "revolt",
+      "question": {
+        "en": "Can you refuse despair without lying to yourself?",
+        "es": "¿Se puede rechazar la desesperación sin mentirse?"
       },
-      "reflection" : [
-        {
-          "en" : "If the eternal cannot defeat it, your restlessness is in old company. Nietzsche treats boredom not as a small complaint but as a force with cosmic standing.",
-          "es" : "Si lo eterno no puede vencerlo, tu inquietud está en vieja compañía. Nietzsche trata el aburrimiento no como una queja menor sino como una fuerza de rango cósmico.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "boredom",
-      "voiceID" : "nietzsche",
-      "work" : {
-        "en" : "The Antichrist, 1888",
-        "es" : "El Anticristo, 1888"
+      "title": {
+        "en": "Revolt",
+        "es": "La rebeldía"
       }
     },
     {
-      "id" : "dostoevsky-suffering-intelligence",
-      "quote" : {
-        "en" : "Pain and suffering are always inevitable for a large intelligence and a deep heart. The really great men must, I think, have great sadness on earth.",
-        "es" : "El dolor y el sufrimiento son siempre inevitables para una inteligencia amplia y un corazón profundo. Los hombres realmente grandes deben de tener, creo, una gran tristeza en la tierra."
+      "accent": "clay",
+      "id": "mortality",
+      "question": {
+        "en": "Is death the end of meaning, or the thing that gives it weight?",
+        "es": "¿Es la muerte el fin del sentido, o lo que le da peso?"
       },
-      "reflection" : [
-        {
-          "en" : "Beautiful, and dangerous, which is exactly why it is worth resisting. Dostoevsky ties depth to sorrow as if they were the same organ.",
-          "es" : "Hermosa, y peligrosa, justo por eso conviene resistirla. Dostoyevski ata la hondura a la tristeza como si fueran el mismo órgano.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Sit with whether that is wisdom, or whether it is the flattery sadness loves to hear.",
-          "es" : "Detente en si eso es sabiduría, o si es el halago que la tristeza ama escuchar.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "suffering",
-      "voiceID" : "dostoevsky",
-      "work" : {
-        "en" : "Crime and Punishment, 1866",
-        "es" : "Crimen y castigo, 1866"
+      "title": {
+        "en": "Death",
+        "es": "La muerte"
       }
     },
     {
-      "id" : "dostoevsky-despair-sick",
-      "quote" : {
-        "en" : "I am a sick man... I am a spiteful man. I am an unattractive man.",
-        "es" : "Soy un hombre enfermo... Soy un hombre rencoroso. Soy un hombre desagradable."
+      "accent": "peach",
+      "id": "boredom",
+      "question": {
+        "en": "Is an empty hour only discomfort, or a glimpse of something true?",
+        "es": "¿Una hora vacía es solo incomodidad, o un atisbo de algo verdadero?"
       },
-      "reflection" : [
-        {
-          "en" : "The most honest opening in literature, because it refuses to be liked. The Underground Man would rather be true and wretched than agreeable and false.",
-          "es" : "La apertura más honesta de la literatura, porque se niega a caer bien. El hombre del subsuelo prefiere ser verdadero y miserable que agradable y falso.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "There is a strange floor under that: the relief of saying the worst first.",
-          "es" : "Hay un suelo extraño debajo de eso: el alivio de decir lo peor primero.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "despair",
-      "voiceID" : "dostoevsky",
-      "work" : {
-        "en" : "Notes from Underground, 1864",
-        "es" : "Memorias del subsuelo, 1864"
-      }
-    },
-    {
-      "id" : "dostoevsky-revolt-livefor",
-      "quote" : {
-        "en" : "The mystery of human existence lies not in just staying alive, but in finding something to live for.",
-        "es" : "El misterio de la existencia humana no está en seguir vivo, sino en encontrar algo por lo que vivir."
-      },
-      "reflection" : [
-        {
-          "en" : "He sets the bar past survival on purpose. Merely not-dying is not the question. The question is what you would not-die for.",
-          "es" : "Pone el listón más allá de la supervivencia a propósito. El simple no-morir no es la pregunta. La pregunta es por qué no morirías.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "The mystery is not that we live, but that we need a reason to.",
-          "es" : "El misterio no es que vivamos, sino que necesitemos una razón.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "revolt",
-      "voiceID" : "dostoevsky",
-      "work" : {
-        "en" : "The Brothers Karamazov, 1880",
-        "es" : "Los hermanos Karamázov, 1880"
-      }
-    },
-    {
-      "id" : "dostoevsky-revolt-step",
-      "quote" : {
-        "en" : "Taking a new step, uttering a new word, is what people fear most.",
-        "es" : "Dar un paso nuevo, pronunciar una palabra nueva, es lo que más teme la gente."
-      },
-      "reflection" : [
-        {
-          "en" : "The wall is rarely the world; usually it is the dread of the first move. Dostoevsky names the fear that disguises itself as caution and keeps a life in place.",
-          "es" : "El muro rara vez es el mundo; casi siempre es el pavor del primer movimiento. Dostoyevski nombra el miedo que se disfraza de prudencia y mantiene una vida en su sitio.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "revolt",
-      "voiceID" : "dostoevsky",
-      "work" : {
-        "en" : "Crime and Punishment, 1866",
-        "es" : "Crimen y castigo, 1866"
-      }
-    },
-    {
-      "id" : "dostoevsky-solitude-mystery",
-      "quote" : {
-        "en" : "Man is a mystery. It must be solved, and if you spend your whole life solving it, do not say you have wasted your time.",
-        "es" : "El hombre es un misterio. Hay que resolverlo, y si pasas toda la vida resolviéndolo, no digas que has perdido el tiempo."
-      },
-      "reflection" : [
-        {
-          "en" : "He gives the inward search the dignity of a lifelong vocation. To sit alone trying to understand yourself is not idleness for Dostoevsky; it is the work.",
-          "es" : "Le da a la búsqueda interior la dignidad de una vocación de por vida. Sentarse a solas a tratar de entenderte no es ociosidad para Dostoyevski; es el trabajo.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "solitude",
-      "voiceID" : "dostoevsky",
-      "work" : {
-        "en" : "letter, 1839",
-        "es" : "carta, 1839"
-      }
-    },
-    {
-      "id" : "kafka-absurd-hope",
-      "quote" : {
-        "en" : "There is infinite hope, only not for us.",
-        "es" : "Hay esperanza infinita, pero no para nosotros."
-      },
-      "reflection" : [
-        {
-          "en" : "A joke and a verdict in one breath. Kafka leaves the hope intact and simply removes us from its address.",
-          "es" : "Una broma y un veredicto en el mismo aliento. Kafka deja intacta la esperanza y solo nos quita de su destinatario.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Read it twice. The first time it crushes, the second it is almost funny, which is the Kafka register exactly.",
-          "es" : "Léelo dos veces. La primera aplasta, la segunda casi da risa, que es justamente el registro de Kafka.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "absurd",
-      "voiceID" : "kafka",
-      "work" : {
-        "en" : "reported by Max Brod",
-        "es" : "referido por Max Brod"
-      }
-    },
-    {
-      "id" : "kafka-suffering-axe",
-      "quote" : {
-        "en" : "A book must be the axe for the frozen sea within us.",
-        "es" : "Un libro debe ser el hacha para el mar congelado que llevamos dentro."
-      },
-      "reflection" : [
-        {
-          "en" : "He is describing what reading is for: not comfort but rupture. The sea is frozen, which is to say numb.",
-          "es" : "Describe para qué sirve leer: no para el consuelo sino para la ruptura. El mar está congelado, es decir, entumecido.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "The right book does not warm you. It breaks the ice so the cold water can move again.",
-          "es" : "El libro justo no te calienta. Rompe el hielo para que el agua fría vuelva a moverse.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "suffering",
-      "voiceID" : "kafka",
-      "work" : {
-        "en" : "letter to Oskar Pollak, 1904",
-        "es" : "carta a Oskar Pollak, 1904"
-      }
-    },
-    {
-      "id" : "kafka-suffering-holdback",
-      "quote" : {
-        "en" : "You can hold yourself back from the sufferings of the world, that is something you are free to do, but perhaps this very holding back is the one suffering you could have avoided.",
-        "es" : "Puedes apartarte de los sufrimientos del mundo, eso es algo que eres libre de hacer, pero quizá ese mismo apartarte sea el único sufrimiento que podrías haber evitado."
-      },
-      "reflection" : [
-        {
-          "en" : "The escape hatch turns out to be the trap. Kafka suspects that the armor against pain is itself the deepest pain, the one we chose.",
-          "es" : "La salida de emergencia resulta ser la trampa. Kafka sospecha que la armadura contra el dolor es ella misma el dolor más hondo, el que elegimos.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "suffering",
-      "voiceID" : "kafka",
-      "work" : {
-        "en" : "The Zürau Aphorisms, 1917-1918",
-        "es" : "Los aforismos de Zürau, 1917-1918"
-      }
-    },
-    {
-      "id" : "kafka-solitude-wait",
-      "quote" : {
-        "en" : "You need not leave your room. Remain sitting at your table and listen. Do not even listen, simply wait. The world will offer itself to you to be unmasked.",
-        "es" : "No necesitas salir de tu habitación. Quédate sentado a tu mesa y escucha. Ni siquiera escuches, solo espera. El mundo se te ofrecerá para que lo desenmascares."
-      },
-      "reflection" : [
-        {
-          "en" : "Solitude here is not exile but a method. Kafka asks for less and less, from acting to listening to merely waiting, until the world has no choice but to come and be seen.",
-          "es" : "La soledad aquí no es destierro sino método. Kafka pide cada vez menos, de actuar a escuchar a solo esperar, hasta que el mundo no tiene más remedio que venir a dejarse ver.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Stillness as a form of attention.",
-          "es" : "La quietud como forma de atención.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "solitude",
-      "voiceID" : "kafka",
-      "work" : {
-        "en" : "The Zürau Aphorisms, 1917-1918",
-        "es" : "Los aforismos de Zürau, 1917-1918"
-      }
-    },
-    {
-      "id" : "kafka-solitude-cage",
-      "quote" : {
-        "en" : "I am a cage, in search of a bird.",
-        "es" : "Soy una jaula en busca de un pájaro."
-      },
-      "reflection" : [
-        {
-          "en" : "He inverts the obvious image. Not a bird wanting freedom but a cage wanting something to hold.",
-          "es" : "Invierte la imagen obvia. No un pájaro que quiere libertad sino una jaula que quiere algo que sostener.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "The longing is real and the structure of it is wrong, and he says both in eight words.",
-          "es" : "El anhelo es real y su estructura está mal, y dice ambas cosas en ocho palabras.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "solitude",
-      "voiceID" : "kafka",
-      "work" : {
-        "en" : "The Zürau Aphorisms, 1917-1918",
-        "es" : "Los aforismos de Zürau, 1917-1918"
-      }
-    },
-    {
-      "id" : "kafka-revolt-world",
-      "quote" : {
-        "en" : "In the struggle between yourself and the world, second the world.",
-        "es" : "En la lucha entre tú y el mundo, ponte de parte del mundo."
-      },
-      "reflection" : [
-        {
-          "en" : "A strange instruction: stop fighting reality and take its side. Not surrender exactly, but a suspicion that the self braced against everything is the thing causing the ache.",
-          "es" : "Una instrucción extraña: deja de pelear con la realidad y toma su lado. No exactamente rendición, sino la sospecha de que el yo en guardia contra todo es lo que causa el dolor.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "revolt",
-      "voiceID" : "kafka",
-      "work" : {
-        "en" : "The Zürau Aphorisms, 1917-1918",
-        "es" : "Los aforismos de Zürau, 1917-1918"
-      }
-    },
-    {
-      "id" : "schopenhauer-suffering-object",
-      "quote" : {
-        "en" : "Unless suffering is the direct and immediate object of life, our existence must entirely fail of its aim.",
-        "es" : "Si el sufrimiento no es el objeto directo e inmediato de la vida, nuestra existencia yerra por completo su fin."
-      },
-      "reflection" : [
-        {
-          "en" : "He states the heresy flatly: that pain is not an interruption of life but its very content, and that any worldview pretending otherwise has missed the point. You do not have to agree to feel the cold clarity of it.",
-          "es" : "Enuncia la herejía sin rodeos: que el dolor no es una interrupción de la vida sino su contenido mismo, y que toda visión que pretenda lo contrario ha errado el punto. No hace falta darle la razón para sentir su fría claridad.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "suffering",
-      "voiceID" : "schopenhauer",
-      "work" : {
-        "en" : "On the Suffering of the World, 1851",
-        "es" : "Sobre el sufrimiento del mundo, 1851"
-      }
-    },
-    {
-      "id" : "schopenhauer-boredom-pendulum",
-      "quote" : {
-        "en" : "Life swings like a pendulum backward and forward between pain and boredom.",
-        "es" : "La vida oscila como un péndulo, de un lado a otro, entre el dolor y el aburrimiento."
-      },
-      "reflection" : [
-        {
-          "en" : "Get what you want and boredom arrives; want what you lack and pain does. Schopenhauer puts the two on one axle and lets the whole of a life rock between them.",
-          "es" : "Consigue lo que quieres y llega el aburrimiento; desea lo que te falta y llega el dolor. Schopenhauer pone ambos en un mismo eje y deja que toda una vida se balancee entre ellos.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "boredom",
-      "voiceID" : "schopenhauer",
-      "work" : {
-        "en" : "The World as Will and Representation, 1818",
-        "es" : "El mundo como voluntad y representación, 1818"
-      }
-    },
-    {
-      "id" : "schopenhauer-despair-mistake",
-      "quote" : {
-        "en" : "Human life must be some kind of mistake.",
-        "es" : "La vida humana debe de ser una especie de error."
-      },
-      "reflection" : [
-        {
-          "en" : "A sentence with no handle to soften it. He is not being dramatic; he means it structurally, that a being who must keep wanting in order to live is built to be unsatisfied.",
-          "es" : "Una frase sin asa que la suavice. No es dramatismo; lo dice estructuralmente, que un ser que debe seguir deseando para vivir está hecho para no quedar satisfecho.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "despair",
-      "voiceID" : "schopenhauer",
-      "work" : {
-        "en" : "On the Suffering of the World, 1851",
-        "es" : "Sobre el sufrimiento del mundo, 1851"
-      }
-    },
-    {
-      "id" : "schopenhauer-solitude-alone",
-      "quote" : {
-        "en" : "A man can be himself only so long as he is alone, and if he does not love solitude, he will not love freedom, for it is only when he is alone that he is really free.",
-        "es" : "El hombre solo puede ser él mismo mientras está solo, y si no ama la soledad, no amará la libertad, pues solo cuando está solo es de veras libre."
-      },
-      "reflection" : [
-        {
-          "en" : "Solitude and freedom turn out to be the same thing seen twice. The price of company, for Schopenhauer, is always a little of yourself.",
-          "es" : "Soledad y libertad resultan ser la misma cosa vista dos veces. El precio de la compañía, para Schopenhauer, es siempre un poco de ti mismo.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "solitude",
-      "voiceID" : "schopenhauer",
-      "work" : {
-        "en" : "Counsels and Maxims, 1851",
-        "es" : "Aforismos sobre el arte de vivir, 1851"
-      }
-    },
-    {
-      "id" : "kierkegaard-despair-self",
-      "quote" : {
-        "en" : "The greatest hazard of all, losing the self, can occur very quietly in the world, as if it were nothing at all.",
-        "es" : "El mayor de los peligros, perder el yo, puede ocurrir muy calladamente en el mundo, como si no fuera nada."
-      },
-      "reflection" : [
-        {
-          "en" : "No alarm sounds when it happens. Kierkegaard's despair is not loud grief but a slow forfeiting of who you are, mistaken at the time for simply getting on with things.",
-          "es" : "No suena ninguna alarma cuando sucede. La desesperación de Kierkegaard no es duelo ruidoso sino una lenta renuncia a quien eres, confundida entonces con simplemente seguir adelante.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "despair",
-      "voiceID" : "kierkegaard",
-      "work" : {
-        "en" : "The Sickness Unto Death, 1849",
-        "es" : "La enfermedad mortal, 1849"
-      }
-    },
-    {
-      "id" : "kierkegaard-absurd-anxiety",
-      "quote" : {
-        "en" : "Anxiety is the dizziness of freedom.",
-        "es" : "La angustia es el vértigo de la libertad."
-      },
-      "reflection" : [
-        {
-          "en" : "The vertigo is not fear of the drop but fear of the fact that you could jump. Freedom, looked at directly, makes the ground move. That swimming feeling is the cost of being able to choose.",
-          "es" : "El vértigo no es miedo a la caída sino miedo al hecho de que podrías saltar. La libertad, mirada de frente, hace que el suelo se mueva. Esa sensación de mareo es el costo de poder elegir.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "absurd",
-      "voiceID" : "kierkegaard",
-      "work" : {
-        "en" : "The Concept of Anxiety, 1844",
-        "es" : "El concepto de la angustia, 1844"
-      }
-    },
-    {
-      "id" : "kierkegaard-revolt-backwards",
-      "quote" : {
-        "en" : "Life can only be understood backwards, but it must be lived forwards.",
-        "es" : "La vida solo puede comprenderse hacia atrás, pero ha de vivirse hacia adelante."
-      },
-      "reflection" : [
-        {
-          "en" : "The cruelty is structural: meaning arrives only after the moment that needed it. You walk into the dark facing the wrong way, and call the looking-back wisdom.",
-          "es" : "La crueldad es estructural: el sentido llega solo después del momento que lo necesitaba. Caminas hacia la oscuridad de espaldas, y llamas sabiduría a mirar atrás.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "revolt",
-      "voiceID" : "kierkegaard",
-      "work" : {
-        "en" : "Journals, 1843",
-        "es" : "Diarios, 1843"
-      }
-    },
-    {
-      "id" : "kierkegaard-revolt-faith",
-      "quote" : {
-        "en" : "Faith is the highest passion in a human being.",
-        "es" : "La fe es la pasión más alta en un ser humano."
-      },
-      "reflection" : [
-        {
-          "en" : "Not a comfort but a leap, made without the railing of proof. For Kierkegaard faith is closer to daring than to certainty, and that is exactly its dignity.",
-          "es" : "No un consuelo sino un salto, dado sin el barandal de la prueba. Para Kierkegaard la fe está más cerca de atreverse que de la certeza, y en eso reside justamente su dignidad.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "revolt",
-      "voiceID" : "kierkegaard",
-      "work" : {
-        "en" : "Fear and Trembling, 1843",
-        "es" : "Temor y temblor, 1843"
-      }
-    },
-    {
-      "id" : "pascal-absurd-silence",
-      "quote" : {
-        "en" : "The eternal silence of these infinite spaces frightens me.",
-        "es" : "El silencio eterno de estos espacios infinitos me espanta."
-      },
-      "reflection" : [
-        {
-          "en" : "Long before the modern void, Pascal heard it. The spaces do not threaten us; they simply do not answer, and the not-answering is the whole terror.",
-          "es" : "Mucho antes del vacío moderno, Pascal lo oyó. Los espacios no nos amenazan; simplemente no contestan, y el no contestar es todo el terror.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "absurd",
-      "voiceID" : "pascal",
-      "work" : {
-        "en" : "Pensées, 1670",
-        "es" : "Pensamientos, 1670"
-      }
-    },
-    {
-      "id" : "pascal-revolt-reed",
-      "quote" : {
-        "en" : "Man is only a reed, the weakest in nature, but he is a thinking reed.",
-        "es" : "El hombre no es más que una caña, la más débil de la naturaleza, pero es una caña pensante."
-      },
-      "reflection" : [
-        {
-          "en" : "The universe can crush him and he knows it; the universe knows nothing. Pascal locates all of human dignity in that one asymmetry, that we are aware of our own smallness.",
-          "es" : "El universo puede aplastarlo y él lo sabe; el universo no sabe nada. Pascal sitúa toda la dignidad humana en esa única asimetría: que somos conscientes de nuestra propia pequeñez.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "revolt",
-      "voiceID" : "pascal",
-      "work" : {
-        "en" : "Pensées, 1670",
-        "es" : "Pensamientos, 1670"
-      }
-    },
-    {
-      "id" : "pascal-boredom-room",
-      "quote" : {
-        "en" : "All of humanity's problems stem from man's inability to sit quietly in a room alone.",
-        "es" : "Todos los problemas de la humanidad provienen de la incapacidad del hombre de quedarse quieto a solas en una habitación."
-      },
-      "reflection" : [
-        {
-          "en" : "We invent endless errands to avoid the one encounter we cannot win: the encounter with ourselves and the silence. Pascal called the fleeing divertissement, and saw it everywhere.",
-          "es" : "Inventamos recados sin fin para evitar el único encuentro que no podemos ganar: el encuentro con nosotros mismos y el silencio. Pascal llamó a la huida divertissement, y la vio por todas partes.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "boredom",
-      "voiceID" : "pascal",
-      "work" : {
-        "en" : "Pensées, 1670",
-        "es" : "Pensamientos, 1670"
-      }
-    },
-    {
-      "id" : "pascal-despair-precipice",
-      "quote" : {
-        "en" : "We run heedlessly into the abyss after putting something in front of us to stop us seeing it.",
-        "es" : "Corremos sin cuidado hacia el precipicio después de poner algo delante para no verlo."
-      },
-      "reflection" : [
-        {
-          "en" : "Distraction does not remove the edge; it only hides it while we keep walking. The genius of the line is that it does not tell us to stop running, only to notice that we are.",
-          "es" : "La distracción no quita el borde; solo lo oculta mientras seguimos caminando. La genialidad de la frase es que no nos dice que dejemos de correr, solo que notemos que lo hacemos.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "despair",
-      "voiceID" : "pascal",
-      "work" : {
-        "en" : "Pensées, 1670",
-        "es" : "Pensamientos, 1670"
-      }
-    },
-    {
-      "id" : "tolstoy-absurd-meaning",
-      "quote" : {
-        "en" : "Is there any meaning in my life that the inevitable death awaiting me does not destroy?",
-        "es" : "¿Hay en mi vida algún sentido que la muerte inevitable que me espera no destruya?"
-      },
-      "reflection" : [
-        {
-          "en" : "Tolstoy at the height of his fame could not answer it, and the inability nearly killed him. The question is the absurd in one sentence, asked by a man who had everything the world offers.",
-          "es" : "Tolstói, en la cumbre de su fama, no pudo responderla, y la incapacidad casi lo mata. La pregunta es el absurdo en una sola frase, hecha por un hombre que tenía todo lo que el mundo ofrece.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "absurd",
-      "voiceID" : "tolstoy",
-      "work" : {
-        "en" : "A Confession, 1882",
-        "es" : "Confesión, 1882"
-      }
-    },
-    {
-      "id" : "tolstoy-despair-broken",
-      "quote" : {
-        "en" : "I felt that something had broken within me on which my life had always rested, and that I had nothing left to hold on to.",
-        "es" : "Sentí que algo se había roto dentro de mí, algo sobre lo que mi vida siempre se había apoyado, y que ya no me quedaba nada a lo que aferrarme."
-      },
-      "reflection" : [
-        {
-          "en" : "Not a collapse from outside but from within, at the summit of success. He names the specific horror of having everything and finding it weightless.",
-          "es" : "No un derrumbe desde fuera sino desde dentro, en la cima del éxito. Nombra el horror específico de tenerlo todo y encontrarlo sin peso.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "despair",
-      "voiceID" : "tolstoy",
-      "work" : {
-        "en" : "A Confession, 1882",
-        "es" : "Confesión, 1882"
-      }
-    },
-    {
-      "id" : "tolstoy-revolt-faith",
-      "quote" : {
-        "en" : "Faith is the force of life. If a man lives, then he believes in something.",
-        "es" : "La fe es la fuerza de la vida. Si un hombre vive, es que cree en algo."
-      },
-      "reflection" : [
-        {
-          "en" : "His way out was not an argument but a noticing: that to go on living at all is already to act on a faith you cannot prove. The will to rise tomorrow is itself a kind of belief.",
-          "es" : "Su salida no fue un argumento sino una constatación: que seguir vivos siquiera ya es actuar sobre una fe que no se puede probar. La voluntad de levantarse mañana es ya una especie de creencia.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "revolt",
-      "voiceID" : "tolstoy",
-      "work" : {
-        "en" : "A Confession, 1882",
-        "es" : "Confesión, 1882"
-      }
-    },
-    {
-      "id" : "marcus-suffering-mind",
-      "quote" : {
-        "en" : "You have power over your mind, not outside events. Realize this, and you will find strength.",
-        "es" : "Tienes poder sobre tu mente, no sobre los sucesos externos. Date cuenta de esto y hallarás fuerza."
-      },
-      "reflection" : [
-        {
-          "en" : "The Stoic hinge: the event is not the suffering, your verdict on it is. It sounds like a trick until you try it under real weight, and find it is a discipline, not a slogan.",
-          "es" : "El gozne estoico: el suceso no es el sufrimiento, tu veredicto sobre él lo es. Suena a truco hasta que lo pruebas bajo peso real, y descubres que es una disciplina, no un lema.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "suffering",
-      "voiceID" : "marcus",
-      "work" : {
-        "en" : "Meditations",
-        "es" : "Meditaciones"
-      }
-    },
-    {
-      "id" : "marcus-revolt-obstacle",
-      "quote" : {
-        "en" : "The impediment to action advances action. What stands in the way becomes the way.",
-        "es" : "El impedimento para la acción impulsa la acción. Lo que se interpone en el camino se vuelve el camino."
-      },
-      "reflection" : [
-        {
-          "en" : "Not that obstacles are secretly good, but that the obstacle is the material you actually have. The wall is not blocking the path; today the wall is the path.",
-          "es" : "No que los obstáculos sean en secreto buenos, sino que el obstáculo es el material que de hecho tienes. El muro no bloquea el camino; hoy el muro es el camino.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "revolt",
-      "voiceID" : "marcus",
-      "work" : {
-        "en" : "Meditations",
-        "es" : "Meditaciones"
-      }
-    },
-    {
-      "id" : "marcus-solitude-within",
-      "quote" : {
-        "en" : "Look within. Within is the fountain of good, and it will ever bubble up, if you will ever dig.",
-        "es" : "Mira hacia dentro. Dentro está la fuente del bien, y siempre brotará si siempre cavas."
-      },
-      "reflection" : [
-        {
-          "en" : "He wrote this to himself, an emperor surrounded by people and still alone. The source he points to is not other people and not events, but a steadiness you maintain by hand.",
-          "es" : "Lo escribió para sí mismo, un emperador rodeado de gente y aun así solo. La fuente que señala no son los demás ni los sucesos, sino una firmeza que sostienes con tus propias manos.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "solitude",
-      "voiceID" : "marcus",
-      "work" : {
-        "en" : "Meditations",
-        "es" : "Meditaciones"
-      }
-    },
-    {
-      "id" : "seneca-suffering-imagination",
-      "quote" : {
-        "en" : "We suffer more often in imagination than in reality.",
-        "es" : "Sufrimos más a menudo en la imaginación que en la realidad."
-      },
-      "reflection" : [
-        {
-          "en" : "Most of the weight is rehearsal. Seneca does not deny real pain; he points out how much of ours is spent on versions of it that never arrive.",
-          "es" : "Casi todo el peso es ensayo. Séneca no niega el dolor real; señala cuánto del nuestro se gasta en versiones que nunca llegan.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "suffering",
-      "voiceID" : "seneca",
-      "work" : {
-        "en" : "Letters to Lucilius",
-        "es" : "Cartas a Lucilio"
-      }
-    },
-    {
-      "id" : "seneca-mortality-waste",
-      "quote" : {
-        "en" : "It is not that we have a short time to live, but that we waste a great deal of it.",
-        "es" : "No es que tengamos poco tiempo para vivir, sino que desperdiciamos mucho."
-      },
-      "reflection" : [
-        {
-          "en" : "The complaint is not that the clock is cruel but that we hand the hours away. Death is not the thief; inattention is.",
-          "es" : "La queja no es que el reloj sea cruel sino que regalamos las horas. La muerte no es el ladrón; lo es el descuido.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "mortality",
-      "voiceID" : "seneca",
-      "work" : {
-        "en" : "On the Shortness of Life",
-        "es" : "Sobre la brevedad de la vida"
-      }
-    },
-    {
-      "id" : "seneca-mortality-fear",
-      "quote" : {
-        "en" : "He who fears death will never do anything worthy of a living man.",
-        "es" : "Quien teme a la muerte nunca hará nada digno de un hombre vivo."
-      },
-      "reflection" : [
-        {
-          "en" : "Fear of the end, held too close, quietly cancels the middle. Seneca's wager is that you cannot live fully while flinching from the one certain fact.",
-          "es" : "El miedo al final, sostenido demasiado cerca, cancela calladamente el medio. La apuesta de Séneca es que no puedes vivir plenamente mientras te encoges ante el único hecho seguro.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "mortality",
-      "voiceID" : "seneca",
-      "work" : {
-        "en" : "Letters to Lucilius",
-        "es" : "Cartas a Lucilio"
-      }
-    },
-    {
-      "id" : "epictetus-suffering-views",
-      "quote" : {
-        "en" : "Men are disturbed not by things, but by the views they take of them.",
-        "es" : "A los hombres no los perturban las cosas, sino las opiniones que se forman de ellas."
-      },
-      "reflection" : [
-        {
-          "en" : "The oldest version of the idea, and still the hardest to practice. Between the thing and your suffering sits a judgment, and the judgment is the part that is yours.",
-          "es" : "La versión más antigua de la idea, y todavía la más difícil de practicar. Entre la cosa y tu sufrimiento se sienta un juicio, y el juicio es la parte que es tuya.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "suffering",
-      "voiceID" : "epictetus",
-      "work" : {
-        "en" : "Enchiridion",
-        "es" : "Enquiridión"
-      }
-    },
-    {
-      "id" : "epictetus-revolt-control",
-      "quote" : {
-        "en" : "Some things are within our power, and some are not. Within our power are opinion, desire, aversion; outside it are the body, property, reputation, office.",
-        "es" : "Algunas cosas dependen de nosotros y otras no. De nosotros dependen la opinión, el deseo, la aversión; no dependen el cuerpo, los bienes, la reputación, los cargos."
-      },
-      "reflection" : [
-        {
-          "en" : "Freedom begins with the brutal inventory: almost nothing is yours, but the almost-nothing that is, is everything. Spend your effort only there.",
-          "es" : "La libertad empieza con el inventario brutal: casi nada es tuyo, pero ese casi-nada que sí lo es, lo es todo. Gasta tu esfuerzo solo ahí.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "revolt",
-      "voiceID" : "epictetus",
-      "work" : {
-        "en" : "Enchiridion",
-        "es" : "Enquiridión"
-      }
-    },
-    {
-      "id" : "montaigne-suffering-fear",
-      "quote" : {
-        "en" : "He who fears he shall suffer, already suffers what he fears.",
-        "es" : "Quien teme sufrir, ya sufre lo que teme."
-      },
-      "reflection" : [
-        {
-          "en" : "Dread collects the debt in advance. Montaigne notices that the anticipation is its own affliction, often larger than the thing anticipated.",
-          "es" : "El pavor cobra la deuda por adelantado. Montaigne nota que la anticipación es su propia aflicción, a menudo mayor que lo anticipado.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "suffering",
-      "voiceID" : "montaigne",
-      "work" : {
-        "en" : "Essays, 1580",
-        "es" : "Ensayos, 1580"
-      }
-    },
-    {
-      "id" : "montaigne-solitude-backshop",
-      "quote" : {
-        "en" : "We must reserve a back shop all our own, entirely free, in which to establish our real liberty and our principal retreat and solitude.",
-        "es" : "Hay que reservarse una trastienda toda nuestra, enteramente libre, en la que establecer nuestra verdadera libertad y nuestro principal retiro y soledad."
-      },
-      "reflection" : [
-        {
-          "en" : "A private room behind the public one, owned by no one else. Not escape from the world but a place to stand apart from it, so the world does not become all of you.",
-          "es" : "Un cuarto privado detrás del público, que no es de nadie más. No huir del mundo sino un lugar desde donde mantenerse aparte de él, para que el mundo no se vuelva todo lo que eres.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "solitude",
-      "voiceID" : "montaigne",
-      "work" : {
-        "en" : "Essays, 1580",
-        "es" : "Ensayos, 1580"
-      }
-    },
-    {
-      "id" : "montaigne-mortality-die",
-      "quote" : {
-        "en" : "To philosophize is to learn how to die.",
-        "es" : "Filosofar es aprender a morir."
-      },
-      "reflection" : [
-        {
-          "en" : "Borrowed from Cicero and made his own. The point is not morbidity but rehearsal: a thought kept near the end loses some of its power to ambush you.",
-          "es" : "Tomado de Cicerón y hecho suyo. La idea no es la morbidez sino el ensayo: un pensamiento que se mantiene cerca del final pierde algo de su poder de emboscarte.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "mortality",
-      "voiceID" : "montaigne",
-      "work" : {
-        "en" : "Essays, 1580",
-        "es" : "Ensayos, 1580"
-      }
-    },
-    {
-      "id" : "spinoza-mortality-free",
-      "quote" : {
-        "en" : "A free man thinks of nothing less than of death, and his wisdom is a meditation on life, not on death.",
-        "es" : "El hombre libre en nada piensa menos que en la muerte, y su sabiduría es una meditación sobre la vida, no sobre la muerte."
-      },
-      "reflection" : [
-        {
-          "en" : "The clean counterweight to every brooding voice in this collection. Spinoza does not deny death; he refuses to let it become the subject. Wisdom faces the living thing.",
-          "es" : "El contrapeso limpio de toda voz sombría de esta colección. Spinoza no niega la muerte; se niega a dejar que se vuelva el tema. La sabiduría mira lo que vive.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "mortality",
-      "voiceID" : "spinoza",
-      "work" : {
-        "en" : "Ethics, 1677",
-        "es" : "Ética, 1677"
-      }
-    },
-    {
-      "id" : "spinoza-romantic-sadness",
-      "quote" : {
-        "en" : "Sorrow is a man's passage from a greater to a lesser perfection.",
-        "es" : "La tristeza es el paso del hombre de una mayor a una menor perfección."
-      },
-      "reflection" : [
-        {
-          "en" : "He defines sadness as a shrinking, a loss of the power to act, which makes clinging to it a strange project: to choose, on purpose, to be less. A useful suspicion to bring to any beautiful gloom.",
-          "es" : "Define la tristeza como un encogimiento, una pérdida del poder de obrar, lo que vuelve extraño el aferrarse a ella: elegir, a propósito, ser menos. Una sospecha útil para llevar a cualquier penumbra hermosa.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "romanticization",
-      "voiceID" : "spinoza",
-      "work" : {
-        "en" : "Ethics, 1677",
-        "es" : "Ética, 1677"
-      }
-    },
-    {
-      "id" : "spinoza-suffering-clear",
-      "quote" : {
-        "en" : "An emotion which is a suffering ceases to be a suffering as soon as we form a clear and distinct idea of it.",
-        "es" : "Una emoción que es un padecimiento deja de serlo en cuanto nos formamos de ella una idea clara y distinta."
-      },
-      "reflection" : [
-        {
-          "en" : "Not repression but understanding. The claim is that the part of pain that masters us is the part we have not yet seen clearly. Looking is the work.",
-          "es" : "No represión sino comprensión. La tesis es que la parte del dolor que nos domina es la que aún no hemos visto con claridad. Mirar es el trabajo.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "suffering",
-      "voiceID" : "spinoza",
-      "work" : {
-        "en" : "Ethics, 1677",
-        "es" : "Ética, 1677"
-      }
-    },
-    {
-      "id" : "johnson-romantic-fancy",
-      "quote" : {
-        "en" : "All power of fancy over reason is a degree of insanity.",
-        "es" : "Todo dominio de la fantasía sobre la razón es un grado de locura."
-      },
-      "reflection" : [
-        {
-          "en" : "The original enemy of the romance of melancholy. Johnson, who suffered terribly himself, distrusted the imagination precisely because he knew how sweet it is to let it win.",
-          "es" : "El enemigo original del romance de la melancolía. Johnson, que sufrió terriblemente, desconfiaba de la imaginación justo porque sabía lo dulce que es dejarla ganar.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "romanticization",
-      "voiceID" : "johnson",
-      "work" : {
-        "en" : "Rasselas, 1759",
-        "es" : "Rasselas, 1759"
-      }
-    },
-    {
-      "id" : "johnson-romantic-rust",
-      "quote" : {
-        "en" : "Sorrow is a kind of rust of the soul, which every new idea contributes in its passage to scour away.",
-        "es" : "La tristeza es una especie de óxido del alma, que cada idea nueva, a su paso, contribuye a raspar."
-      },
-      "reflection" : [
-        {
-          "en" : "His prescription against wallowing is motion: a new thought, a task, a walk. Grief left standing corrodes; passed through, it wears off. Bleak, practical, and probably right.",
-          "es" : "Su receta contra el regodeo es el movimiento: un pensamiento nuevo, una tarea, un paseo. El duelo dejado quieto corroe; atravesado, se desgasta. Sombrío, práctico y probablemente cierto.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "romanticization",
-      "voiceID" : "johnson",
-      "work" : {
-        "en" : "The Rambler, 1750",
-        "es" : "The Rambler, 1750"
-      }
-    },
-    {
-      "id" : "johnson-revolt-content",
-      "quote" : {
-        "en" : "The fountain of content must spring up in the mind, and he who has so little knowledge of human nature as to seek happiness by changing anything but his own disposition will waste his life in fruitless efforts.",
-        "es" : "La fuente del contento ha de brotar en la mente, y quien tan poco conoce la naturaleza humana como para buscar la felicidad cambiando algo que no sea su propia disposición malgastará su vida en esfuerzos estériles."
-      },
-      "reflection" : [
-        {
-          "en" : "Not a denial of real misfortune, but a refusal of the fantasy that the next change of scene will fix you. The work is interior, and there is no other address for it.",
-          "es" : "No una negación de la desgracia real, sino un rechazo de la fantasía de que el próximo cambio de escenario te arreglará. El trabajo es interior, y no hay otra dirección para él.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "revolt",
-      "voiceID" : "johnson",
-      "work" : {
-        "en" : "The Rambler, 1750",
-        "es" : "The Rambler, 1750"
-      }
-    },
-    {
-      "id" : "unamuno-suffering-substance",
-      "quote" : {
-        "en" : "Suffering is the substance of life and the root of personality, for it is only suffering that makes us persons.",
-        "es" : "El sufrimiento es la sustancia de la vida y la raíz de la personalidad, pues solo sufriendo se es persona."
-      },
-      "reflection" : [
-        {
-          "en" : "Dangerous and close to Dostoevsky's claim, and worth the same suspicion. Unamuno ties selfhood to pain so tightly that it is worth asking whether he has found a truth or built a shrine.",
-          "es" : "Peligrosa y cercana a la afirmación de Dostoyevski, y digna de la misma sospecha. Unamuno ata la identidad al dolor tan estrechamente que vale preguntar si halló una verdad o construyó un altar.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "suffering",
-      "voiceID" : "unamuno",
-      "work" : {
-        "en" : "The Tragic Sense of Life, 1913",
-        "es" : "Del sentimiento trágico de la vida, 1913"
-      }
-    },
-    {
-      "id" : "unamuno-absurd-consciousness",
-      "quote" : {
-        "en" : "Consciousness is a disease.",
-        "es" : "La conciencia es una enfermedad."
-      },
-      "reflection" : [
-        {
-          "en" : "To know that you are, and that you will end, is an affliction no other animal carries. Unamuno does not mean it as a cure to be sought, only as the strange wound of being awake.",
-          "es" : "Saber que eres, y que terminarás, es una aflicción que ningún otro animal carga. Unamuno no lo dice como una cura que buscar, solo como la extraña herida de estar despierto.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "absurd",
-      "voiceID" : "unamuno",
-      "work" : {
-        "en" : "The Tragic Sense of Life, 1913",
-        "es" : "Del sentimiento trágico de la vida, 1913"
-      }
-    },
-    {
-      "id" : "unamuno-revolt-injustice",
-      "quote" : {
-        "en" : "Let us act in such a way that, if annihilation is to be our fate, it shall be an injustice.",
-        "es" : "Obremos de tal modo que, si la aniquilación ha de ser nuestra suerte, sea una injusticia."
-      },
-      "reflection" : [
-        {
-          "en" : "He cannot prove the soul survives, so he changes the task: live so fully that your erasure would be a wrong. Defiance where certainty is not available.",
-          "es" : "No puede probar que el alma sobreviva, así que cambia la tarea: vivir tan plenamente que tu borrado sea un agravio. Desafío donde la certeza no está disponible.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "revolt",
-      "voiceID" : "unamuno",
-      "work" : {
-        "en" : "The Tragic Sense of Life, 1913",
-        "es" : "Del sentimiento trágico de la vida, 1913"
-      }
-    },
-    {
-      "id" : "baudelaire-romantic-knife",
-      "quote" : {
-        "en" : "I am the wound and the knife. I am the blow and the cheek. I am the limbs and the wheel, the victim and the executioner.",
-        "es" : "Yo soy la herida y el cuchillo. Soy la bofetada y la mejilla. Soy los miembros y la rueda, la víctima y el verdugo."
-      },
-      "reflection" : [
-        {
-          "en" : "The exact anatomy of self-inflicted sorrow: no outside enemy, because you are playing both parts. Baudelaire confesses the pleasure of the torment, which is the honest and the dangerous thing.",
-          "es" : "La anatomía exacta de la tristeza autoinfligida: no hay enemigo externo, porque haces ambos papeles. Baudelaire confiesa el placer del tormento, que es lo honesto y lo peligroso.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "romanticization",
-      "voiceID" : "baudelaire",
-      "work" : {
-        "en" : "The Self-Tormentor, 1857",
-        "es" : "El heautontimoroúmenos, 1857"
-      }
-    },
-    {
-      "id" : "baudelaire-boredom-spleen",
-      "quote" : {
-        "en" : "When the low and heavy sky weighs like a lid upon the spirit groaning under a lasting weariness, hope, like a bat, goes beating the walls with its timid wing.",
-        "es" : "Cuando el cielo bajo y pesado pesa como una losa sobre el espíritu que gime presa de un largo hastío, la esperanza, como un murciélago, golpea los muros con su ala tímida."
-      },
-      "reflection" : [
-        {
-          "en" : "Spleen is not sadness about something; it is the weather of having no reason left. Baudelaire gives boredom its proper dread, the dread of an afternoon that will not end.",
-          "es" : "El spleen no es tristeza por algo; es el clima de no tener ya razón alguna. Baudelaire le da al hastío su debido pavor, el pavor de una tarde que no termina.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "boredom",
-      "voiceID" : "baudelaire",
-      "work" : {
-        "en" : "Spleen, 1857",
-        "es" : "Spleen, 1857"
-      }
-    },
-    {
-      "id" : "baudelaire-boredom-drunk",
-      "quote" : {
-        "en" : "One must always be drunk. Be drunk on wine, on poetry, or on virtue, as you please, but be drunk.",
-        "es" : "Hay que estar siempre ebrio. Embriágate de vino, de poesía o de virtud, como quieras, pero embriágate."
-      },
-      "reflection" : [
-        {
-          "en" : "Against the crushing weight of Time, his answer is intoxication of any kind, so long as it lifts you off the floor of the hour. A cure that admits it is also a flight.",
-          "es" : "Contra el peso aplastante del Tiempo, su respuesta es la embriaguez de cualquier clase, con tal de que te levante del suelo de la hora. Una cura que admite que también es una huida.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "boredom",
-      "voiceID" : "baudelaire",
-      "work" : {
-        "en" : "Paris Spleen, 1869",
-        "es" : "El spleen de París, 1869"
-      }
-    },
-    {
-      "id" : "leopardi-romantic-founder",
-      "quote" : {
-        "en" : "And to founder in this sea is sweet to me.",
-        "es" : "Y naufragar me es dulce en este mar."
-      },
-      "reflection" : [
-        {
-          "en" : "The most beautiful drowning in poetry. Leopardi loses the self in immensity and calls it sweet, which is exactly the seduction this theme keeps circling.",
-          "es" : "El naufragio más hermoso de la poesía. Leopardi pierde el yo en la inmensidad y lo llama dulce, que es justo la seducción que este tema no deja de rodear.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "romanticization",
-      "voiceID" : "leopardi",
-      "work" : {
-        "en" : "The Infinite, 1819",
-        "es" : "El infinito, 1819"
-      }
-    },
-    {
-      "id" : "leopardi-despair-evil",
-      "quote" : {
-        "en" : "Everything is evil. That is to say, everything that is, is evil; that each thing exists is an evil.",
-        "es" : "Todo es mal. Es decir, todo lo que es, es mal; que cada cosa exista es un mal."
-      },
-      "reflection" : [
-        {
-          "en" : "The bleakest sentence in the book, written by a man capable of unbearable beauty. Hold the two facts together: the view is total, and the voice making it is luminous.",
-          "es" : "La frase más sombría del libro, escrita por un hombre capaz de una belleza insoportable. Sostén los dos hechos juntos: la visión es total, y la voz que la dice es luminosa.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "despair",
-      "voiceID" : "leopardi",
-      "work" : {
-        "en" : "Zibaldone, 1826",
-        "es" : "Zibaldone, 1826"
-      }
-    },
-    {
-      "id" : "dickinson-suffering-pain",
-      "quote" : {
-        "en" : "After great pain, a formal feeling comes. The Nerves sit ceremonious, like Tombs.",
-        "es" : "Tras un gran dolor, llega un sentimiento formal. Los nervios se sientan ceremoniosos, como tumbas."
-      },
-      "reflection" : [
-        {
-          "en" : "Not the storm of grief but the numb aftermath, when feeling goes formal and stiff. Dickinson names the strange composure that follows the worst, which is itself a symptom.",
-          "es" : "No la tormenta del duelo sino la secuela entumecida, cuando el sentir se vuelve formal y rígido. Dickinson nombra la extraña compostura que sigue a lo peor, que es ella misma un síntoma.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "suffering",
-      "voiceID" : "dickinson",
-      "work" : {
-        "en" : "poem 372",
-        "es" : "poema 372"
-      }
-    },
-    {
-      "id" : "dickinson-solitude-society",
-      "quote" : {
-        "en" : "The Soul selects her own Society, then shuts the Door. To her divine Majority, present no more.",
-        "es" : "El alma elige su propia compañía, y luego cierra la puerta. A su divina mayoría, no se presenta más."
-      },
-      "reflection" : [
-        {
-          "en" : "Solitude here is not loss but sovereignty: a deliberate closing, a choosing of the few. The door is shut from the inside, and that changes everything about it.",
-          "es" : "La soledad aquí no es pérdida sino soberanía: un cierre deliberado, una elección de los pocos. La puerta se cierra desde dentro, y eso lo cambia todo.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "solitude",
-      "voiceID" : "dickinson",
-      "work" : {
-        "en" : "poem 303",
-        "es" : "poema 303"
-      }
-    },
-    {
-      "id" : "dickinson-suffering-blank",
-      "quote" : {
-        "en" : "Pain has an element of blank; it cannot recollect when it began, or if there were a day when it was not.",
-        "es" : "El dolor tiene un elemento de vacío; no puede recordar cuándo empezó, ni si hubo un día en que no fuera."
-      },
-      "reflection" : [
-        {
-          "en" : "Pain erases its own beginning and pretends it was always here. Dickinson catches the way suffering rewrites time so that no before survives.",
-          "es" : "El dolor borra su propio inicio y finge que siempre estuvo aquí. Dickinson capta cómo el sufrimiento reescribe el tiempo de modo que ningún antes sobrevive.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "suffering",
-      "voiceID" : "dickinson",
-      "work" : {
-        "en" : "poem 650",
-        "es" : "poema 650"
-      }
-    },
-    {
-      "id" : "dickinson-revolt-hope",
-      "quote" : {
-        "en" : "Hope is the thing with feathers that perches in the soul, and sings the tune without the words, and never stops at all.",
-        "es" : "La esperanza es esa cosa con plumas que se posa en el alma, y canta la melodía sin las palabras, y no se detiene jamás."
-      },
-      "reflection" : [
-        {
-          "en" : "She makes hope small, wordless, and stubborn, not a conclusion but a creature that simply keeps singing. Note it is a thing with feathers, not a reason.",
-          "es" : "Hace la esperanza pequeña, sin palabras y terca, no una conclusión sino una criatura que simplemente sigue cantando. Nota que es una cosa con plumas, no una razón.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "revolt",
-      "voiceID" : "dickinson",
-      "work" : {
-        "en" : "poem 314",
-        "es" : "poema 314"
-      }
-    },
-    {
-      "id" : "keats-romantic-death",
-      "quote" : {
-        "en" : "Now more than ever seems it rich to die, to cease upon the midnight with no pain.",
-        "es" : "Ahora más que nunca parece rico morir, cesar a medianoche sin dolor alguno."
-      },
-      "reflection" : [
-        {
-          "en" : "The seduction stated at its most gorgeous: death dressed as relief, as richness, as the end of effort. Keats does not hide that the beauty is the danger.",
-          "es" : "La seducción dicha en su forma más hermosa: la muerte vestida de alivio, de riqueza, de fin del esfuerzo. Keats no oculta que la belleza es el peligro.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "romanticization",
-      "voiceID" : "keats",
-      "work" : {
-        "en" : "Ode to a Nightingale, 1819",
-        "es" : "Oda a un ruiseñor, 1819"
-      }
-    },
-    {
-      "id" : "keats-romantic-melancholy",
-      "quote" : {
-        "en" : "Ay, in the very temple of Delight veiled Melancholy has her sovran shrine.",
-        "es" : "Sí, en el mismísimo templo del Deleite, la velada Melancolía tiene su soberano santuario."
-      },
-      "reflection" : [
-        {
-          "en" : "Sorrow lives inside joy, not opposite it. Keats finds the shrine of melancholy in the temple of pleasure itself, which is why the two are so hard to keep apart.",
-          "es" : "La tristeza vive dentro de la dicha, no enfrente. Keats halla el santuario de la melancolía en el templo del placer mismo, por eso cuesta tanto separarlos.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "romanticization",
-      "voiceID" : "keats",
-      "work" : {
-        "en" : "Ode on Melancholy, 1820",
-        "es" : "Oda a la melancolía, 1820"
-      }
-    },
-    {
-      "id" : "keats-suffering-soul",
-      "quote" : {
-        "en" : "Do you not see how necessary a world of pains and troubles is to school an intelligence and make it a soul?",
-        "es" : "¿No ves qué necesario es un mundo de penas y dificultades para educar una inteligencia y hacerla un alma?"
-      },
-      "reflection" : [
-        {
-          "en" : "Keats calls the world a school for souls, with pain as the curriculum. A consoling idea, and one worth testing hard: is suffering forming you, or are you flattering it?",
-          "es" : "Keats llama al mundo una escuela de almas, con el dolor por plan de estudios. Idea consoladora, y digna de ponerse a prueba con dureza: ¿te está formando el sufrimiento, o lo estás halagando?",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "suffering",
-      "voiceID" : "keats",
-      "work" : {
-        "en" : "Letters, 1819",
-        "es" : "Cartas, 1819"
-      }
-    },
-    {
-      "id" : "hopkins-despair-mountains",
-      "quote" : {
-        "en" : "O the mind, mind has mountains; cliffs of fall, frightful, sheer, no-man-fathomed.",
-        "es" : "Oh, la mente, la mente tiene montañas; acantilados de caída, espantosos, a pico, que nadie ha sondeado."
-      },
-      "reflection" : [
-        {
-          "en" : "He maps the inner drop with a climber's precision: sheer, unmeasured, nobody's plumb line reaching the bottom. Despair given a geology.",
-          "es" : "Traza la caída interior con precisión de escalador: a pico, sin medir, sin plomada que llegue al fondo. La desesperación dotada de una geología.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "despair",
-      "voiceID" : "hopkins",
-      "work" : {
-        "en" : "from the terrible sonnets, 1885",
-        "es" : "de los sonetos terribles, 1885"
-      }
-    },
-    {
-      "id" : "hopkins-despair-noworst",
-      "quote" : {
-        "en" : "No worst, there is none. Pitched past pitch of grief, more pangs will, schooled at forepangs, wilder wring.",
-        "es" : "No hay peor, no hay ninguno. Lanzado más allá del tono del dolor, vendrán más punzadas, aleccionadas por las primeras, a retorcer con más furia."
-      },
-      "reflection" : [
-        {
-          "en" : "Just when you think grief has a floor, it teaches a new note and goes lower. Hopkins, a priest, wrote some of the most faithless-sounding lines in English, and meant every one.",
-          "es" : "Justo cuando crees que el dolor tiene un suelo, enseña una nota nueva y baja más. Hopkins, sacerdote, escribió algunos de los versos más descreídos del inglés, y los sintió todos.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "despair",
-      "voiceID" : "hopkins",
-      "work" : {
-        "en" : "from the terrible sonnets, 1885",
-        "es" : "de los sonetos terribles, 1885"
-      }
-    },
-    {
-      "id" : "poe-absurd-dream",
-      "quote" : {
-        "en" : "All that we see or seem is but a dream within a dream.",
-        "es" : "Todo lo que vemos o parecemos no es más que un sueño dentro de un sueño."
-      },
-      "reflection" : [
-        {
-          "en" : "Reality recedes by one more layer just as you reach for it. Poe makes the ground itself uncertain, which is the absurd wearing a Gothic coat.",
-          "es" : "La realidad retrocede una capa más justo cuando alargas la mano. Poe vuelve incierto el suelo mismo, que es el absurdo con abrigo gótico.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "absurd",
-      "voiceID" : "poe",
-      "work" : {
-        "en" : "A Dream Within a Dream, 1849",
-        "es" : "Un sueño dentro de un sueño, 1849"
-      }
-    },
-    {
-      "id" : "poe-romantic-beauty",
-      "quote" : {
-        "en" : "The death of a beautiful woman is, unquestionably, the most poetical topic in the world.",
-        "es" : "La muerte de una mujer hermosa es, sin duda, el tema más poético del mundo."
-      },
-      "reflection" : [
-        {
-          "en" : "He says the quiet part out loud, and indicts the whole tradition while practicing it. This is the romanticization of sorrow confessing its own machinery, which is why it belongs here.",
-          "es" : "Dice en voz alta la parte callada, e incrimina a toda la tradición mientras la practica. Esta es la romantización de la tristeza confesando su propia maquinaria, por eso pertenece aquí.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "romanticization",
-      "voiceID" : "poe",
-      "work" : {
-        "en" : "The Philosophy of Composition, 1846",
-        "es" : "La filosofía de la composición, 1846"
-      }
-    },
-    {
-      "id" : "byron-romantic-sensation",
-      "quote" : {
-        "en" : "The great object of life is sensation, to feel that we exist, even though in pain.",
-        "es" : "El gran objeto de la vida es la sensación, sentir que existimos, aunque sea en el dolor."
-      },
-      "reflection" : [
-        {
-          "en" : "The Byronic creed in one line: better the ache than the numbness, because at least the ache proves you are here. Seductive, and exactly the impulse this theme distrusts.",
-          "es" : "El credo byroniano en una línea: mejor el dolor que el entumecimiento, porque al menos el dolor prueba que estás aquí. Seductor, y justo el impulso que este tema desconfía.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "romanticization",
-      "voiceID" : "byron",
-      "work" : {
-        "en" : "Letters, 1813",
-        "es" : "Cartas, 1813"
-      }
-    },
-    {
-      "id" : "byron-solitude-nature",
-      "quote" : {
-        "en" : "There is a pleasure in the pathless woods, there is a rapture on the lonely shore, there is society where none intrudes.",
-        "es" : "Hay un placer en los bosques sin senda, hay un éxtasis en la orilla solitaria, hay compañía donde nadie se entromete."
-      },
-      "reflection" : [
-        {
-          "en" : "Solitude reframed as the better company. Byron finds society precisely where other people are not, which is either wisdom or a beautiful excuse, and possibly both.",
-          "es" : "La soledad reformulada como la mejor compañía. Byron encuentra sociedad justo donde no hay otra gente, lo cual es sabiduría o una hermosa excusa, y posiblemente ambas.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "solitude",
-      "voiceID" : "byron",
-      "work" : {
-        "en" : "Childe Harold's Pilgrimage, 1818",
-        "es" : "Las peregrinaciones de Childe Harold, 1818"
-      }
-    },
-    {
-      "id" : "coleridge-despair-hope",
-      "quote" : {
-        "en" : "Work without hope draws nectar in a sieve, and hope without an object cannot live.",
-        "es" : "El trabajo sin esperanza saca néctar en un colador, y la esperanza sin objeto no puede vivir."
-      },
-      "reflection" : [
-        {
-          "en" : "Two empty hands held up. Effort with no hope leaks away as fast as you pour it, and hope with nothing to land on starves. Coleridge names the deadlock from inside it.",
-          "es" : "Dos manos vacías en alto. El esfuerzo sin esperanza se escurre tan rápido como lo viertes, y la esperanza sin nada donde posarse se muere de hambre. Coleridge nombra el atasco desde dentro.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "despair",
-      "voiceID" : "coleridge",
-      "work" : {
-        "en" : "Work Without Hope, 1825",
-        "es" : "Trabajo sin esperanza, 1825"
-      }
-    },
-    {
-      "id" : "coleridge-boredom-grief",
-      "quote" : {
-        "en" : "A grief without a pang, void, dark, and drear, a stifled, drowsy, unimpassioned grief, which finds no natural outlet, no relief.",
-        "es" : "Una pena sin punzada, vacía, oscura y lúgubre, una pena ahogada, somnolienta, sin pasión, que no halla salida natural ni alivio."
-      },
-      "reflection" : [
-        {
-          "en" : "Not sharp sorrow but the flat, airless kind, grief with the feeling drained out. He describes the depressive's particular hell: not too much pain but too little, a numbness that will not even cry.",
-          "es" : "No el dolor agudo sino el plano y sin aire, la pena con el sentir drenado. Describe el infierno particular del que está deprimido: no demasiado dolor sino demasiado poco, un entumecimiento que ni siquiera llora.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "boredom",
-      "voiceID" : "coleridge",
-      "work" : {
-        "en" : "Dejection: An Ode, 1802",
-        "es" : "Abatimiento: una oda, 1802"
-      }
-    },
-    {
-      "id" : "rilke-solitude-love",
-      "quote" : {
-        "en" : "Love your solitude and try to sing out with the pain it causes you.",
-        "es" : "Ama tu soledad e intenta cantar con el dolor que te causa."
-      },
-      "reflection" : [
-        {
-          "en" : "He does not promise solitude will stop hurting. He asks you to make something of the hurt, to treat being alone as a material rather than a sentence.",
-          "es" : "No promete que la soledad deje de doler. Pide que hagas algo del dolor, que trates el estar solo como un material y no como una condena.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "solitude",
-      "voiceID" : "rilke",
-      "work" : {
-        "en" : "Letters to a Young Poet, 1903",
-        "es" : "Cartas a un joven poeta, 1903"
-      }
-    },
-    {
-      "id" : "rilke-romantic-terror",
-      "quote" : {
-        "en" : "For beauty is nothing but the beginning of terror, which we are still just able to endure.",
-        "es" : "Porque lo bello no es nada sino el comienzo de lo terrible, que todavía apenas soportamos."
-      },
-      "reflection" : [
-        {
-          "en" : "Beauty and terror share a border, and the most beautiful things stand right on it. Rilke explains why the gorgeous and the unbearable so often arrive together.",
-          "es" : "La belleza y el terror comparten una frontera, y las cosas más bellas se paran justo en ella. Rilke explica por qué lo hermoso y lo insoportable llegan tan a menudo juntos.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "romanticization",
-      "voiceID" : "rilke",
-      "work" : {
-        "en" : "Duino Elegies, 1923",
-        "es" : "Elegías de Duino, 1923"
-      }
-    },
-    {
-      "id" : "rilke-revolt-change",
-      "quote" : {
-        "en" : "You must change your life.",
-        "es" : "Tienes que cambiar tu vida."
-      },
-      "reflection" : [
-        {
-          "en" : "The poem looks at a broken statue and ends, with no warning, on a command. Some confrontations with beauty or truth leave only this, an order with no instructions.",
-          "es" : "El poema mira una estatua rota y termina, sin aviso, en una orden. Algunos encuentros con la belleza o la verdad dejan solo esto, un mandato sin instrucciones.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "revolt",
-      "voiceID" : "rilke",
-      "work" : {
-        "en" : "Archaic Torso of Apollo, 1908",
-        "es" : "Torso arcaico de Apolo, 1908"
-      }
-    },
-    {
-      "id" : "rilke-suffering-dragons",
-      "quote" : {
-        "en" : "Perhaps all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage.",
-        "es" : "Quizá todos los dragones de nuestra vida sean princesas que solo esperan vernos actuar, una vez, con belleza y valor."
-      },
-      "reflection" : [
-        {
-          "en" : "A risky kind of hope, that the thing terrifying you is waiting to be met rather than fled. Rilke offers it gently, as a perhaps, not a promise.",
-          "es" : "Una clase arriesgada de esperanza, que aquello que te aterra espera ser enfrentado y no rehuido. Rilke la ofrece con suavidad, como un quizá, no como una promesa.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "suffering",
-      "voiceID" : "rilke",
-      "work" : {
-        "en" : "Letters to a Young Poet, 1904",
-        "es" : "Cartas a un joven poeta, 1904"
-      }
-    },
-    {
-      "id" : "milton-despair-hell",
-      "quote" : {
-        "en" : "Which way I fly is Hell; myself am Hell.",
-        "es" : "Hacia dondequiera que vuele es el Infierno; yo mismo soy el Infierno."
-      },
-      "reflection" : [
-        {
-          "en" : "Satan discovers there is no exit because he is the exit's location. Milton gives despair its definitive geography: the place you are fleeing is the one you carry.",
-          "es" : "Satán descubre que no hay salida porque él es el lugar de la salida. Milton da a la desesperación su geografía definitiva: el sitio del que huyes es el que llevas contigo.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "despair",
-      "voiceID" : "milton",
-      "work" : {
-        "en" : "Paradise Lost, 1667",
-        "es" : "El paraíso perdido, 1667"
-      }
-    },
-    {
-      "id" : "milton-revolt-mind",
-      "quote" : {
-        "en" : "The mind is its own place, and in itself can make a Heaven of Hell, a Hell of Heaven.",
-        "es" : "La mente es su propio lugar, y en sí misma puede hacer un Cielo del Infierno, un Infierno del Cielo."
-      },
-      "reflection" : [
-        {
-          "en" : "Spoken by the fallen angel, which complicates the comfort. The mind's power to remake its own weather is real, and it cuts both ways, which is the whole danger and the whole hope.",
-          "es" : "Dicho por el ángel caído, lo que complica el consuelo. El poder de la mente de rehacer su propio clima es real, y corta por ambos lados, que es todo el peligro y toda la esperanza.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "revolt",
-      "voiceID" : "milton",
-      "work" : {
-        "en" : "Paradise Lost, 1667",
-        "es" : "El paraíso perdido, 1667"
-      }
-    },
-    {
-      "id" : "donne-solitude-island",
-      "quote" : {
-        "en" : "No man is an island, entire of itself; every man is a piece of the continent, a part of the main.",
-        "es" : "Ningún hombre es una isla, completo en sí mismo; cada hombre es un trozo del continente, una parte del todo."
-      },
-      "reflection" : [
-        {
-          "en" : "The counter to every voice that prizes apartness. Donne insists the separateness we feel is partly an illusion, that another's loss really does subtract from you.",
-          "es" : "El contrapunto de toda voz que aprecia el apartamiento. Donne insiste en que la separación que sentimos es en parte una ilusión, que la pérdida de otro de veras te resta.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "solitude",
-      "voiceID" : "donne",
-      "work" : {
-        "en" : "Devotions, 1624",
-        "es" : "Devociones, 1624"
-      }
-    },
-    {
-      "id" : "donne-mortality-death",
-      "quote" : {
-        "en" : "Death, be not proud, though some have called thee mighty and dreadful, for thou art not so.",
-        "es" : "Muerte, no seas soberbia, aunque algunos te hayan llamado poderosa y terrible, pues no lo eres."
-      },
-      "reflection" : [
-        {
-          "en" : "He addresses death directly and talks down to it. Whether or not you share his faith, the posture is bracing: to face the thing and refuse it the last word.",
-          "es" : "Se dirige a la muerte directamente y le habla desde arriba. Compartas o no su fe, la postura vigoriza: encarar la cosa y negarle la última palabra.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "mortality",
-      "voiceID" : "donne",
-      "work" : {
-        "en" : "Holy Sonnet X, 1633",
-        "es" : "Soneto sacro X, 1633"
-      }
-    },
-    {
-      "id" : "becquer-mortality-dead",
-      "quote" : {
-        "en" : "My God, how alone the dead are left.",
-        "es" : "¡Dios mío, qué solos se quedan los muertos!"
-      },
-      "reflection" : [
-        {
-          "en" : "Not the grief of the mourner but the abandonment of the buried, the living drifting back to their lives while the dead stay behind. Bécquer locates a loneliness on the far side of death.",
-          "es" : "No el duelo del que llora sino el abandono del enterrado, los vivos que vuelven a sus vidas mientras los muertos se quedan atrás. Bécquer ubica una soledad del otro lado de la muerte.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "mortality",
-      "voiceID" : "becquer",
-      "work" : {
-        "en" : "Rima LXXIII, 1871",
-        "es" : "Rima LXXIII, 1871"
-      }
-    },
-    {
-      "id" : "sorjuana-revolt-ignore",
-      "quote" : {
-        "en" : "I do not study in order to know more, but in order to be ignorant of less.",
-        "es" : "No estudio para saber más, sino para ignorar menos."
-      },
-      "reflection" : [
-        {
-          "en" : "She reframes the whole enterprise away from triumph and toward humility: not the conquest of knowledge but the shrinking of ignorance. A quieter, more honest reason to keep going.",
-          "es" : "Reformula toda la empresa lejos del triunfo y hacia la humildad: no la conquista del saber sino la merma de la ignorancia. Una razón más callada y más honesta para seguir.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "revolt",
-      "voiceID" : "sorjuana",
-      "work" : {
-        "en" : "Reply to Sister Filotea, 1691",
-        "es" : "Respuesta a sor Filotea, 1691"
-      }
-    },
-    {
-      "id" : "sorjuana-suffering-world",
-      "quote" : {
-        "en" : "In my pursuit, World, why such perversity? How do I offend you, when I only try to put beauty in my mind, and not my mind in beautiful things?",
-        "es" : "¿En perseguirme, mundo, qué interesas? ¿En qué te ofendo, cuando solo intento poner bellezas en mi entendimiento y no mi entendimiento en las bellezas?"
-      },
-      "reflection" : [
-        {
-          "en" : "Her defense against a world that punished a woman for thinking. She chooses the inner life over the world's prizes, pays for it, and does it anyway.",
-          "es" : "Su defensa ante un mundo que castigaba a una mujer por pensar. Elige la vida interior por encima de los premios del mundo, lo paga, y lo hace de todos modos.",
-          "type" : "paragraph"
-        }
-      ],
-      "themeID" : "suffering",
-      "voiceID" : "sorjuana",
-      "work" : {
-        "en" : "Sonnet, 1689",
-        "es" : "Soneto, 1689"
+      "title": {
+        "en": "Boredom",
+        "es": "El hastío"
       }
     }
   ],
-  "themes" : [
+  "theses": [],
+  "version": 1,
+  "voices": [
     {
-      "accent" : "sky",
-      "id" : "absurd",
-      "question" : {
-        "en" : "If the world will not answer, how do we go on asking?",
-        "es" : "Si el mundo no responde, ¿cómo seguimos preguntando?"
+      "accent": "clayDeep",
+      "bio": {
+        "en": "A philosopher who took a hammer to inherited comforts. He saw suffering not as something to be cured but as something to be made into form, and warned as often as he exhorted.",
+        "es": "Un filósofo que tomó un martillo contra los consuelos heredados. Vio el sufrimiento no como algo que curar sino como algo a lo que dar forma, y advirtió tanto como exhortó."
       },
-      "title" : {
-        "en" : "The Absurd",
-        "es" : "Lo absurdo"
-      }
+      "epithet": {
+        "en": "1844-1900 · German",
+        "es": "1844-1900 · alemán"
+      },
+      "id": "nietzsche",
+      "name": "Friedrich Nietzsche"
     },
     {
-      "accent" : "peach",
-      "id" : "suffering",
-      "question" : {
-        "en" : "Does pain mean anything, or do we only insist that it must?",
-        "es" : "¿Significa algo el dolor, o solo insistimos en que debe significarlo?"
+      "accent": "mauve",
+      "bio": {
+        "en": "Novelist of fevered consciences and basement honesty. He believed suffering and freedom were tangled together, and that a person needs something to live for more than they need to be comfortable.",
+        "es": "Novelista de conciencias afiebradas y honestidad de subsuelo. Creía que el sufrimiento y la libertad estaban enredados, y que una persona necesita algo por lo que vivir más de lo que necesita estar cómoda."
       },
-      "title" : {
-        "en" : "Suffering",
-        "es" : "El sufrimiento"
-      }
+      "epithet": {
+        "en": "1821-1881 · Russian",
+        "es": "1821-1881 · ruso"
+      },
+      "id": "dostoevsky",
+      "name": "Fyodor Dostoevsky"
     },
     {
-      "accent" : "mauve",
-      "id" : "despair",
-      "question" : {
-        "en" : "When hope is gone, is anything left?",
-        "es" : "Cuando la esperanza se va, ¿queda algo?"
+      "accent": "sage",
+      "bio": {
+        "en": "Writer of locked doors and patient dread. His sentences are calm and his world is not, and the gap between the two is the most honest joke in modern literature.",
+        "es": "Escritor de puertas cerradas y temor paciente. Sus frases son serenas y su mundo no lo es, y la distancia entre ambos es la broma más honesta de la literatura moderna."
       },
-      "title" : {
-        "en" : "Despair",
-        "es" : "La desesperación"
-      }
+      "epithet": {
+        "en": "1883-1924 · Prague, wrote in German",
+        "es": "1883-1924 · Praga, escribió en alemán"
+      },
+      "id": "kafka",
+      "name": "Franz Kafka"
     },
     {
-      "accent" : "sage",
-      "id" : "solitude",
-      "question" : {
-        "en" : "Is being alone an emptiness, or a room of one's own?",
-        "es" : "¿Estar solo es un vacío, o un cuarto propio?"
+      "accent": "clayDeep",
+      "bio": {
+        "en": "The philosopher of the will and of pessimism. He held that existence is driven by a blind striving that can never be satisfied, and that to see this clearly is the beginning of wisdom.",
+        "es": "El filósofo de la voluntad y del pesimismo. Sostuvo que la existencia la mueve un anhelo ciego que nunca se sacia, y que verlo con claridad es el comienzo de la sabiduría."
       },
-      "title" : {
-        "en" : "Solitude",
-        "es" : "La soledad"
-      }
+      "epithet": {
+        "en": "1788-1860 · German",
+        "es": "1788-1860 · alemán"
+      },
+      "id": "schopenhauer",
+      "name": "Arthur Schopenhauer"
     },
     {
-      "accent" : "clay",
-      "id" : "romanticization",
-      "question" : {
-        "en" : "When does sadness stop being felt and start being worn?",
-        "es" : "¿Cuándo deja la tristeza de sentirse y empieza a llevarse puesta?"
+      "accent": "sky",
+      "bio": {
+        "en": "The melancholy Dane, first of the existentialists. He wrote about anxiety, despair, and the leap of faith with a restless, ironic intensity.",
+        "es": "El melancólico danés, primero de los existencialistas. Escribió sobre la angustia, la desesperación y el salto de fe con una intensidad inquieta e irónica."
       },
-      "title" : {
-        "en" : "The Romanticization of Sorrow",
-        "es" : "La romantización de la tristeza"
-      }
+      "epithet": {
+        "en": "1813-1855 · Danish",
+        "es": "1813-1855 · danés"
+      },
+      "id": "kierkegaard",
+      "name": "Søren Kierkegaard"
     },
     {
-      "accent" : "clayDeep",
-      "id" : "revolt",
-      "question" : {
-        "en" : "Can you refuse despair without lying to yourself?",
-        "es" : "¿Se puede rechazar la desesperación sin mentirse?"
+      "accent": "mauve",
+      "bio": {
+        "en": "Mathematician and believer who stared into the cosmic void and named our flight from it. The Pensées map the misery and the greatness of being human.",
+        "es": "Matemático y creyente que miró el vacío cósmico y nombró nuestra huida de él. Los Pensamientos trazan la miseria y la grandeza de ser humano."
       },
-      "title" : {
-        "en" : "Revolt",
-        "es" : "La rebeldía"
-      }
+      "epithet": {
+        "en": "1623-1662 · French",
+        "es": "1623-1662 · francés"
+      },
+      "id": "pascal",
+      "name": "Blaise Pascal"
     },
     {
-      "accent" : "clay",
-      "id" : "mortality",
-      "question" : {
-        "en" : "Is death the end of meaning, or the thing that gives it weight?",
-        "es" : "¿Es la muerte el fin del sentido, o lo que le da peso?"
+      "accent": "sage",
+      "bio": {
+        "en": "Late in life the great novelist faced the question of whether anything he did could matter against death. A Confession is that reckoning.",
+        "es": "Ya mayor, el gran novelista enfrentó la pregunta de si algo de lo que hiciera podía importar frente a la muerte. Confesión es ese ajuste de cuentas."
       },
-      "title" : {
-        "en" : "Death",
-        "es" : "La muerte"
-      }
+      "epithet": {
+        "en": "1828-1910 · Russian",
+        "es": "1828-1910 · ruso"
+      },
+      "id": "tolstoy",
+      "name": "Leo Tolstoy"
     },
     {
-      "accent" : "peach",
-      "id" : "boredom",
-      "question" : {
-        "en" : "Is an empty hour only discomfort, or a glimpse of something true?",
-        "es" : "¿Una hora vacía es solo incomodidad, o un atisbo de algo verdadero?"
+      "accent": "peach",
+      "bio": {
+        "en": "Roman emperor and Stoic, who wrote his Meditations to himself, never for us. A manual for enduring a life you did not choose.",
+        "es": "Emperador romano y estoico, que escribió sus Meditaciones para sí mismo, nunca para nosotros. Un manual para soportar una vida que no elegiste."
       },
-      "title" : {
-        "en" : "Boredom",
-        "es" : "El hastío"
-      }
-    }
-  ],
-  "theses" : [
-    {
-      "accent" : "clay",
-      "body" : [
-        {
-          "en" : "Notice who gets the best lines.",
-          "es" : "Fíjate en quién se lleva las mejores líneas.",
-          "type" : "lead"
-        },
-        {
-          "en" : "In the story we keep retelling, the devil is articulate and the saint is dull. Milton set out to justify the ways of God to men and accidentally wrote the most magnetic character in the English language, a fallen angel who would rather reign in hell than serve in heaven, and every reader since has felt the pull of that preference even while disapproving of it. Goodness, in our imagination, tends to be flat. Evil has texture. We give it the close-up.",
-          "es" : "En la historia que no dejamos de contar, el diablo es elocuente y el santo es soso. Milton se propuso justificar ante los hombres los caminos de Dios y, sin querer, escribió el personaje más magnético de la lengua inglesa, un ángel caído que preferiría reinar en el infierno antes que servir en el cielo, y todo lector desde entonces ha sentido el tirón de esa preferencia aun desaprobándola. La bondad, en nuestra imaginación, tiende a ser plana. El mal tiene textura. A él le damos el primer plano.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "This is not an accident of taste. It is something we do, on purpose, and it is worth asking what we get out of it.",
-          "es" : "No es un accidente del gusto. Es algo que hacemos, a propósito, y vale preguntar qué sacamos de ello.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Part of it is that darkness looks like honesty. The person who has seen through everything seems to know more than the person who still hopes; cynicism wears the costume of intelligence. When Nietzsche warned that if you stare into the abyss the abyss stares back, the line got reprinted over black backgrounds precisely by people who wanted the glamour of the abyss without the caution buried inside it. The caution was the point. We kept the aesthetic and threw the warning away.",
-          "es" : "En parte, la oscuridad parece honestidad. Quien ha visto a través de todo parece saber más que quien todavía espera; el cinismo viste el disfraz de la inteligencia. Cuando Nietzsche advirtió que si miras al abismo el abismo te mira a ti, la línea se reimprimió sobre fondos negros justo por quienes querían el glamur del abismo sin la advertencia enterrada dentro. La advertencia era el punto. Nos quedamos con la estética y tiramos el aviso.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Baudelaire understood the machinery better than anyone, because he ran it. He took rot and despair and made them gorgeous, and he knew the gorgeousness was a bribe. Beauty makes a thing agreeable, and what is agreeable, we keep close. Dress evil well enough and we will defend its place in the spotlight and call the defense sophistication.",
-          "es" : "Baudelaire entendió la maquinaria mejor que nadie, porque la operaba. Tomó la podredumbre y la desesperación y las hizo espléndidas, y sabía que el esplendor era un soborno. La belleza vuelve agradable una cosa, y lo agradable lo conservamos cerca. Viste al mal lo bastante bien y defenderemos su lugar en el reflector, y llamaremos sofisticación a la defensa.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "And here is the quietest mechanism, the one that implicates this very habit of sitting up late with dark thoughts. Attention is not neutral. What we look at, we feed. To put something on a pedestal is to agree to spend our lives looking up at it. We have built taller and taller pedestals for our most interesting monsters, telling ourselves we are studying them, when often we are just enjoying the view.",
-          "es" : "Y aquí está el mecanismo más callado, el que incrimina a este mismo hábito de desvelarse con pensamientos oscuros. La atención no es neutral. Lo que miramos, lo alimentamos. Poner algo en un pedestal es aceptar pasar la vida mirándolo hacia arriba. Hemos levantado pedestales cada vez más altos para nuestros monstruos más interesantes, diciéndonos que los estudiamos, cuando muchas veces solo disfrutamos la vista.",
-          "type" : "paragraph"
-        },
-        {
-          "type" : "turn"
-        },
-        {
-          "en" : "But the argument has to turn here, because the opposite error is real, and it is worse than dull. The refusal to look at darkness is not innocence. It is usually fear, and fear makes weak art and weaker people. Dostoevsky handed his most dangerous arguments to his most compelling characters on purpose, because a goodness that has never met its strongest objection is not goodness, only inexperience.",
-          "es" : "Pero el argumento tiene que girar aquí, porque el error opuesto es real, y es peor que el aburrimiento. La negativa a mirar la oscuridad no es inocencia. Suele ser miedo, y el miedo hace arte débil y personas más débiles. Dostoyevski puso sus argumentos más peligrosos en boca de sus personajes más cautivadores a propósito, porque una bondad que nunca ha enfrentado su objeción más fuerte no es bondad, solo inexperiencia.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "To keep evil offstage where it can seduce no one is to leave people fluent in a virtue they have never actually had to choose. There is a version of \"we romanticize evil too much\" that is really just a request to stop thinking about hard things. That version is cowardice with good manners.",
-          "es" : "Mantener el mal fuera del escenario, donde no pueda seducir a nadie, es dejar a la gente fluida en una virtud que nunca tuvo que elegir de verdad. Hay una versión de \"romantizamos demasiado el mal\" que en realidad es solo una petición de dejar de pensar en cosas difíciles. Esa versión es cobardía con buenos modales.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "So the line we are after is thin, and it moves. Looking into the dark is necessary. Falling in love with the view is the trap. The real question is never whether you contemplate evil, but what it is doing for you: are you trying to understand the thing, or enjoying how deep it makes you feel to stand near it?",
-          "es" : "Así que la línea que buscamos es delgada, y se mueve. Mirar la oscuridad es necesario. Enamorarse de la vista es la trampa. La verdadera pregunta nunca es si contemplas el mal, sino qué te hace a ti: ¿intentas entender la cosa, o disfrutas lo hondo que te hace sentir estar cerca de ella?",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "What darkness do you keep returning to, and would you still find it interesting if no one, not even you, were watching?",
-          "es" : "¿A qué oscuridad vuelves una y otra vez, y la seguirías encontrando interesante si nadie, ni siquiera tú, estuviera mirando?",
-          "type" : "question"
-        }
-      ],
-      "dek" : {
-        "en" : "Why the abyss gets the close-up, and what it costs to find the dark more interesting than the light.",
-        "es" : "Por qué el abismo se lleva el primer plano, y qué cuesta encontrar la oscuridad más interesante que la luz."
+      "epithet": {
+        "en": "121-180 · Roman, Stoic",
+        "es": "121-180 · romano, estoico"
       },
-      "id" : "evil-alluring",
-      "kind" : "argument",
-      "title" : {
-        "en" : "We have made evil too alluring",
-        "es" : "Hemos hecho el mal demasiado seductor"
-      },
-      "witnesses" : [
-        "milton",
-        "nietzsche",
-        "baudelaire",
-        "dostoevsky"
-      ]
+      "id": "marcus",
+      "name": "Marcus Aurelius"
     },
     {
-      "accent" : "clay",
-      "body" : [
-        {
-          "en" : "At some point sadness stopped being something that happened to us and became something we put on.",
-          "es" : "En algún momento la tristeza dejó de ser algo que nos pasaba y se volvió algo que nos ponemos.",
-          "type" : "lead"
-        },
-        {
-          "en" : "There is an entire aesthetic built around it now: the dim room, the rain on the window, the song chosen because it hurts in the right way. We curate our melancholy. We give it a soundtrack and a colour grade. And the strange thing is how good it can feel to be sad beautifully, which should already make us suspicious.",
-          "es" : "Hay toda una estética construida alrededor: el cuarto en penumbra, la lluvia en la ventana, la canción elegida porque duele del modo correcto. Curamos nuestra melancolía. Le ponemos banda sonora y un color de imagen. Y lo extraño es lo bien que puede sentirse estar triste con belleza, lo cual ya debería volvernos sospechosos.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "The trouble is the difference between feeling pain and performing it, and the difference is hard to see because the audience can be entirely internal. You can perform your sadness for no one but yourself, narrating your own life as a tragedy because tragedy is more flattering than the truth, which is usually just that things are hard and dull at once.",
-          "es" : "El problema es la diferencia entre sentir el dolor y representarlo, y cuesta verla porque el público puede ser enteramente interno. Puedes representar tu tristeza para nadie más que para ti, narrando tu propia vida como tragedia porque la tragedia halaga más que la verdad, que suele ser solo que las cosas son difíciles y sosas a la vez.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Keats found the shrine of melancholy hidden inside the temple of delight, which is honest: the two really do live in the same building. And Plath wrote depression with a precision no imitator has matched, because hers was real and exact. The danger is never the genuine article. It is the imitation that takes the pose without the wound, the person who wants the depth of Plath without the cost of being Plath.",
-          "es" : "Keats halló el santuario de la melancolía escondido dentro del templo del deleite, lo cual es honesto: de veras viven en el mismo edificio. Y Plath escribió la depresión con una precisión que ningún imitador ha igualado, porque la suya era real y exacta. El peligro nunca es el artículo genuino. Es la imitación que toma la pose sin la herida, quien quiere la hondura de Plath sin el costo de ser Plath.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Cioran caught the mechanism in a single line: melancholy is an appetite that no misery satisfies. Sit with what that implies. If no amount of sadness ever feeds it, then sadness is not actually the goal. Something else is being fed, and it is usually a sense of self. The sorrow is a way of being someone.",
-          "es" : "Cioran atrapó el mecanismo en una sola línea: la melancolía es un apetito que ninguna miseria sacia. Detente en lo que eso implica. Si ninguna cantidad de tristeza la alimenta, entonces la tristeza no es en realidad la meta. Se está alimentando otra cosa, y suele ser una sensación de identidad. La pena es una forma de ser alguien.",
-          "type" : "paragraph"
-        },
-        {
-          "type" : "turn"
-        },
-        {
-          "en" : "And yet the opposite demand is its own kind of violence. \"Just be positive\" is a door shut in the face of real grief, and telling a person in genuine pain that they are merely performing is cruel and often wrong. Not all melancholy is a costume. Some of it is a person carrying exactly what they have been given to carry.",
-          "es" : "Y sin embargo la exigencia opuesta es su propia clase de violencia. \"Solo sé positivo\" es una puerta cerrada en la cara del duelo real, y decirle a una persona con dolor genuino que solo está actuando es cruel y a menudo falso. No toda melancolía es un disfraz. Parte de ella es una persona cargando exactamente lo que le tocó cargar.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "So the test is private and quiet. Does naming the sadness lighten it, or feed it? Does the beauty you make of it console the wound, or only flatter it? You are the only one who can tell, and you have to be honest, because you are also the one being flattered.",
-          "es" : "Así que la prueba es privada y callada. ¿Nombrar la tristeza la aligera, o la alimenta? La belleza que haces de ella, ¿consuela la herida, o solo la halaga? Eres el único que puede saberlo, y tienes que ser honesto, porque también eres el que está siendo halagado.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "If your sadness could not be seen by anyone, including you, would you keep it the same shape?",
-          "es" : "Si tu tristeza no pudiera ser vista por nadie, ni por ti, ¿la conservarías con la misma forma?",
-          "type" : "question"
-        }
-      ],
-      "dek" : {
-        "en" : "The romance of the tragically beautiful, and the gap between feeling pain and wearing it.",
-        "es" : "El romance de lo trágicamente hermoso, y la distancia entre sentir el dolor y llevarlo puesto."
+      "accent": "sky",
+      "bio": {
+        "en": "Stoic, statesman, and letter-writer on how to live and how to die. Practical, unsparing, and oddly consoling.",
+        "es": "Estoico, hombre de Estado y autor de cartas sobre cómo vivir y cómo morir. Práctico, implacable y, de un modo extraño, consolador."
       },
-      "id" : "sadness-costume",
-      "kind" : "argument",
-      "title" : {
-        "en" : "Sadness became a costume",
-        "es" : "La tristeza se volvió un disfraz"
+      "epithet": {
+        "en": "c. 4 BCE-65 CE · Roman, Stoic",
+        "es": "c. 4 a. C.-65 d. C. · romano, estoico"
       },
-      "witnesses" : [
-        "keats",
-        "plath",
-        "cioran"
-      ]
+      "id": "seneca",
+      "name": "Seneca"
     },
     {
-      "accent" : "clay",
-      "body" : [
-        {
-          "en" : "We treat attention as if it were a window: you look through it, and the thing on the other side is unchanged by your looking.",
-          "es" : "Tratamos la atención como si fuera una ventana: miras a través de ella, y la cosa del otro lado no cambia por mirarla.",
-          "type" : "lead"
-        },
-        {
-          "en" : "It is closer to a fertilizer. What you attend to grows in you. The thought you rehearse becomes the groove the next thought rolls into. Dwell on a resentment and it thickens; dwell on a fear and it furnishes a whole house. None of this is mystical. It is just what minds do with repetition.",
-          "es" : "Se parece más a un fertilizante. Aquello a lo que atiendes crece en ti. El pensamiento que ensayas se vuelve el surco por el que rueda el siguiente. Insiste en un resentimiento y se espesa; insiste en un miedo y amuebla una casa entera. Nada de esto es místico. Es solo lo que las mentes hacen con la repetición.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Which means a place like this one, full of beautiful dark thoughts, is not automatically good for you. It could be a garden or it could be a greenhouse for exactly the wrong things. An app that helps you sit with despair could, on the wrong night, simply help despair put down roots. Worth saying plainly, since you are holding it.",
-          "es" : "Lo que significa que un lugar como este, lleno de pensamientos oscuros y hermosos, no es automáticamente bueno para ti. Podría ser un jardín o podría ser un invernadero para justamente las cosas equivocadas. Una app que te ayuda a estar con la desesperación podría, en la noche equivocada, simplemente ayudar a la desesperación a echar raíces. Vale decirlo claro, ya que la tienes en la mano.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "The Stoics understood this with no sentimentality. Marcus wrote to himself, again and again, that the soul takes on the colour of its habitual thoughts, so guard what you rehearse. Epictetus drew the hard line between what is yours and what is not, and put your attention on the short list of things that are. This is not suppression. It is selection. You cannot choose what knocks, but you choose what you invite to stay.",
-          "es" : "Los estoicos lo entendieron sin sentimentalismo. Marco Aurelio se escribió a sí mismo, una y otra vez, que el alma toma el color de sus pensamientos habituales, así que cuida lo que ensayas. Epicteto trazó la línea dura entre lo que es tuyo y lo que no, y puso tu atención en la lista corta de lo que sí lo es. Esto no es represión. Es selección. No eliges qué toca a la puerta, pero eliges a qué invitas a quedarse.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "But Pascal saw the opposite trap, and it is just as real. We flee ourselves into endless distraction, he said, because we cannot bear one quiet hour alone in a room. So the answer is not simply to look away. Look away and you land in the noise that exists only so you never have to meet yourself.",
-          "es" : "Pero Pascal vio la trampa opuesta, y es igual de real. Huimos de nosotros mismos hacia la distracción sin fin, dijo, porque no soportamos una hora callada a solas en un cuarto. Así que la respuesta no es simplemente mirar a otro lado. Mira a otro lado y caes en el ruido que existe solo para que nunca tengas que encontrarte contigo.",
-          "type" : "paragraph"
-        },
-        {
-          "type" : "turn"
-        },
-        {
-          "en" : "Two failures, then, pulling in opposite directions. To stare so long into a darkness that it takes root. And to never sit still enough to know what is actually growing in you. The skill, the only one really on offer here, is choosing what deserves your gaze, and then being willing to look away from the rest without calling the looking-away cowardice.",
-          "es" : "Dos fracasos, entonces, tirando en direcciones opuestas. Mirar tanto tiempo a una oscuridad que echa raíz. Y nunca quedarse lo bastante quieto para saber qué está creciendo de verdad en ti. La destreza, la única que de hecho se ofrece aquí, es elegir qué merece tu mirada, y luego estar dispuesto a apartarla del resto sin llamar cobardía a apartarla.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Of everything you thought about today, how much did you choose, and how much simply chose you?",
-          "es" : "De todo lo que pensaste hoy, ¿cuánto elegiste, y cuánto simplemente te eligió a ti?",
-          "type" : "question"
-        }
-      ],
-      "dek" : {
-        "en" : "Attention is not a mirror. It is a fertilizer. And this app is not innocent.",
-        "es" : "La atención no es un espejo. Es un fertilizante. Y esta app no es inocente."
+      "accent": "sage",
+      "bio": {
+        "en": "Born a slave, he taught that we control nothing but our own judgments, and that this is enough to be free.",
+        "es": "Nacido esclavo, enseñó que no controlamos nada salvo nuestros propios juicios, y que eso basta para ser libres."
       },
-      "id" : "what-you-feed",
-      "kind" : "explanation",
-      "title" : {
-        "en" : "What you stare at, you feed",
-        "es" : "Lo que miras fijamente, lo alimentas"
+      "epithet": {
+        "en": "c. 50-135 · Greek, Stoic",
+        "es": "c. 50-135 · griego, estoico"
       },
-      "witnesses" : [
-        "marcus",
-        "epictetus",
-        "pascal"
-      ]
+      "id": "epictetus",
+      "name": "Epictetus"
     },
     {
-      "accent" : "clay",
-      "body" : [
-        {
-          "en" : "We are taught two things, usually together: that great work costs blood, and that the blood is worth it. Both halves deserve suspicion.",
-          "es" : "Nos enseñan dos cosas, casi siempre juntas: que la gran obra cuesta sangre, y que la sangre vale la pena. Ambas mitades merecen sospecha.",
-          "type" : "lead"
-        },
-        {
-          "en" : "The myth is everywhere and it is seductive because it offers a deal. Your suffering is not waste, it whispers; it is the price of depth, the raw material of the masterpiece, the thing that makes you more real than the comfortable people. The breakdown becomes a credential. The wound becomes a résumé.",
-          "es" : "El mito está en todas partes y es seductor porque ofrece un trato. Tu sufrimiento no es desperdicio, susurra; es el precio de la hondura, la materia prima de la obra maestra, lo que te hace más real que la gente cómoda. El derrumbe se vuelve una credencial. La herida se vuelve un currículum.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "And the evidence seems to confirm it. Plath, Kafka, Cioran turned unbearable inner weather into things of permanent beauty. The suffering was real and so is the art, and no honest account pretends otherwise. It is tempting to draw the straight line: the pain made the work.",
-          "es" : "Y la evidencia parece confirmarlo. Plath, Kafka, Cioran convirtieron un clima interior insoportable en cosas de belleza permanente. El sufrimiento era real y el arte también, y ningún relato honesto finge lo contrario. Es tentador trazar la línea recta: el dolor hizo la obra.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "But look closer and the line bends. The work was almost always made despite the suffering, in the hours when it loosened its grip, not during the worst of it. Nobody writes from inside the bottom of the well; they write from the rim, remembering. Rilke loved his solitude and it also nearly unmade him, and the letters and the elegies came in the gaps, not the depths. The pain did not write the poem. A person did, in spite of the pain, often barely.",
-          "es" : "Pero mira de cerca y la línea se dobla. La obra casi siempre se hizo a pesar del sufrimiento, en las horas en que aflojaba su agarre, no durante lo peor. Nadie escribe desde el fondo del pozo; se escribe desde el borde, recordando. Rilke amó su soledad y también casi lo deshizo, y las cartas y las elegías llegaron en los huecos, no en las honduras. El dolor no escribió el poema. Lo escribió una persona, a pesar del dolor, a menudo a duras penas.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "And the myth has a body count, because it runs backward as easily as forward. If suffering is the source of depth, then getting better looks like selling out, and putting the darkness down looks like becoming shallow. So people stay in the fire because they have been told the fire is the gift. They refuse the help, or the medication, or the ordinary boring recovery, because they are frightened that on the far side of it there will be nothing interesting left of them.",
-          "es" : "Y el mito tiene víctimas, porque corre hacia atrás con la misma facilidad que hacia adelante. Si el sufrimiento es la fuente de la hondura, entonces mejorar parece venderse, y soltar la oscuridad parece volverse superficial. Así que la gente se queda en el fuego porque le han dicho que el fuego es el don. Rechazan la ayuda, o la medicación, o la recuperación común y aburrida, porque temen que del otro lado no quede nada interesante de ellos.",
-          "type" : "paragraph"
-        },
-        {
-          "type" : "turn"
-        },
-        {
-          "en" : "The honest middle is unglamorous. Pain can be material, yes. But material is not the same as a price you are obligated to keep paying. You do not owe your darkness anything. You did not sign a contract that says the day you stop suffering is the day you stop being serious. You can put it down and still have everything that made you worth listening to.",
-          "es" : "El punto medio honesto es poco glamuroso. El dolor puede ser material, sí. Pero el material no es lo mismo que un precio que estás obligado a seguir pagando. No le debes nada a tu oscuridad. No firmaste un contrato que diga que el día en que dejes de sufrir es el día en que dejas de ser serio. Puedes soltarlo y conservar todo lo que te hacía digno de ser escuchado.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "What are you holding onto because some part of you believes it is the thing that makes you deep?",
-          "es" : "¿Qué estás reteniendo porque una parte de ti cree que es lo que te hace profundo?",
-          "type" : "question"
-        }
-      ],
-      "dek" : {
-        "en" : "The myth that suffering is the toll for depth, who profits from it, and who it buries.",
-        "es" : "El mito de que el sufrimiento es el peaje de la hondura, quién se beneficia de él, y a quién entierra."
+      "accent": "mauve",
+      "bio": {
+        "en": "The inventor of the essay, who turned the examination of himself into a way of facing death, doubt, and the ordinary.",
+        "es": "El inventor del ensayo, que convirtió el examen de sí mismo en una manera de enfrentar la muerte, la duda y lo ordinario."
       },
-      "id" : "tortured-artist",
-      "kind" : "demonstration",
-      "title" : {
-        "en" : "The tortured artist is a trap we walked into",
-        "es" : "El artista atormentado es una trampa en la que entramos"
+      "epithet": {
+        "en": "1533-1592 · French",
+        "es": "1533-1592 · francés"
       },
-      "witnesses" : [
-        "plath",
-        "kafka",
-        "cioran",
-        "rilke"
-      ]
+      "id": "montaigne",
+      "name": "Michel de Montaigne"
     },
     {
-      "accent" : "clay",
-      "body" : [
-        {
-          "en" : "There is a particular loneliness that does not wait to be filled. It builds the other person itself.",
-          "es" : "Hay una soledad particular que no espera a que la llenen. Construye ella misma a la otra persona.",
-          "type" : "lead"
-        },
-        {
-          "en" : "Dostoevsky's White Nights gives it a face. A dreamer meets a near-stranger over a few nights and constructs, out of almost nothing, an entire love and a whole future. The feeling is overwhelming and real. The person it attaches to is mostly invented.",
-          "es" : "Noches blancas, de Dostoyevski, le pone rostro. Un soñador conoce a una casi desconocida en unas pocas noches y construye, casi de la nada, un amor entero y un futuro completo. El sentimiento es abrumador y real. La persona a la que se adhiere está, en su mayoría, inventada.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "We do this far past romance. With friends too: we decide, early and alone, that someone is going to matter, and then we pour into them a closeness they never agreed to hold. We mistake the force of our own need for the meaning of the bond.",
-          "es" : "Hacemos esto mucho más allá del romance. También con amistades: decidimos, temprano y a solas, que alguien va a importar, y entonces le vertemos una cercanía que nunca aceptó sostener. Confundimos la fuerza de nuestra propia necesidad con el sentido del vínculo.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "The tell is how little the actual other person is required. A few real exchanges, and the rest is us, filling every silence with the version of them we wanted to find.",
-          "es" : "La señal es lo poco que se necesita a la otra persona real. Unos cuantos intercambios verdaderos, y el resto somos nosotros, llenando cada silencio con la versión de ellos que queríamos encontrar.",
-          "type" : "paragraph"
-        },
-        {
-          "type" : "turn"
-        },
-        {
-          "en" : "There is a kind reading and a hard one. The kind: this is the heart refusing to be alone, which is not contemptible. The hard: forcing a bond where there is no soil for one starves both people, and what you are usually feeding is your own loneliness, not a friendship.",
-          "es" : "Hay una lectura amable y una dura. La amable: es el corazón negándose a estar solo, lo cual no es despreciable. La dura: forzar un vínculo donde no hay tierra para uno deja con hambre a ambos, y lo que sueles alimentar es tu propia soledad, no una amistad.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Not every meeting is meant to become something. Some are a single warm night and nothing after, and the dignity is in letting them be exactly that, instead of grieving a relationship that never actually existed.",
-          "es" : "No todo encuentro está destinado a volverse algo. Algunos son una sola noche cálida y nada después, y la dignidad está en dejarlos ser exactamente eso, en lugar de llorar una relación que nunca existió.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Who are you holding closer than they have asked to be held, and is it them you want, or just not to be alone?",
-          "es" : "¿A quién abrazas más cerca de lo que te ha pedido, y es a esa persona a quien quieres, o solo a no estar solo?",
-          "type" : "question"
-        }
-      ],
-      "dek" : {
-        "en" : "Not only in love but in friendship: the people we will a closeness onto, and what it costs.",
-        "es" : "No solo en el amor, también en la amistad: las personas a las que les imponemos una cercanía, y lo que cuesta."
+      "accent": "clay",
+      "bio": {
+        "en": "The lens-grinder who built ethics like geometry. He argued that freedom is understanding necessity, and that dwelling on death is a kind of bondage.",
+        "es": "El pulidor de lentes que construyó la ética como una geometría. Sostuvo que la libertad es comprender la necesidad, y que rumiar la muerte es una forma de servidumbre."
       },
-      "id" : "forced-connection",
-      "kind" : "demonstration",
-      "title" : {
-        "en" : "We force connections that were never there",
-        "es" : "Forzamos vínculos que nunca estuvieron ahí"
+      "epithet": {
+        "en": "1632-1677 · Dutch",
+        "es": "1632-1677 · neerlandés"
       },
-      "witnesses" : [
-        "dostoevsky"
-      ]
+      "id": "spinoza",
+      "name": "Baruch Spinoza"
     },
     {
-      "accent" : "clay",
-      "body" : [
-        {
-          "en" : "Most lives are not steered. They are carried.",
-          "es" : "Casi ninguna vida se gobierna. Se la llevan.",
-          "type" : "lead"
-        },
-        {
-          "en" : "We like to imagine we are choosing, but much of a life is drift: the job that happened, the city that happened, the years that passed while we were busy. A current we never picked, moving us toward a shore we cannot see, and our eyes are closed for most of the trip.",
-          "es" : "Nos gusta imaginar que elegimos, pero buena parte de una vida es deriva: el trabajo que ocurrió, la ciudad que ocurrió, los años que pasaron mientras estábamos ocupados. Una corriente que nunca escogimos, que nos mueve hacia una orilla que no vemos, y los ojos cerrados casi todo el viaje.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Tolstoy, at the height of everything a life can give, looked up and could not say what any of it was for, and the not-knowing nearly ended him. Schopenhauer would say the current is the will itself, a blind wanting that uses us to move and never tells us where.",
-          "es" : "Tolstói, en la cima de todo lo que una vida puede dar, levantó la vista y no supo decir para qué era nada de eso, y ese no-saber casi lo acaba. Schopenhauer diría que la corriente es la voluntad misma, un querer ciego que nos usa para moverse y nunca nos dice adónde.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "There is comfort in drift. No decisions, no responsibility, the soft excuse that life simply happened to you. And there is horror in it, the day you open your eyes and see how far the water has carried you while you slept.",
-          "es" : "Hay consuelo en la deriva. Sin decisiones, sin responsabilidad, la excusa suave de que la vida simplemente te pasó. Y hay horror en ella, el día en que abres los ojos y ves qué tan lejos te ha llevado el agua mientras dormías.",
-          "type" : "paragraph"
-        },
-        {
-          "type" : "turn"
-        },
-        {
-          "en" : "But maybe the demand for a single Purpose is its own kind of anxiety, and some drift is honest, even wise. Kierkegaard knew you can only understand the journey looking back. The question is not whether you drift. Everyone drifts. It is whether you do it with your eyes open.",
-          "es" : "Pero quizá la exigencia de un único Propósito es su propia clase de angustia, y algo de deriva es honesto, hasta sabio. Kierkegaard sabía que la vida solo se entiende mirando hacia atrás. La pregunta no es si vas a la deriva. Todos vamos. Es si lo haces con los ojos abiertos.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "If you opened your eyes right now, would you like where the current is taking you?",
-          "es" : "Si abrieras los ojos ahora mismo, ¿te gustaría hacia dónde te lleva la corriente?",
-          "type" : "question"
-        }
-      ],
-      "dek" : {
-        "en" : "On living without a purpose, carried by a current we never chose toward we know not what.",
-        "es" : "Sobre vivir sin un propósito, llevados por una corriente que no elegimos hacia no sabemos qué."
+      "accent": "clay",
+      "bio": {
+        "en": "The great moralist of English letters, enemy of self-deception and of the romance of melancholy. He prescribed motion, work, and clear sight against the diseases of the imagination.",
+        "es": "El gran moralista de las letras inglesas, enemigo del autoengaño y del romance de la melancolía. Recetó movimiento, trabajo y mirada clara contra las enfermedades de la imaginación."
       },
-      "id" : "drifting-ashore",
-      "kind" : "explanation",
-      "title" : {
-        "en" : "Drifting ashore with our eyes closed",
-        "es" : "A la deriva, llegando a la orilla con los ojos cerrados"
+      "epithet": {
+        "en": "1709-1784 · English",
+        "es": "1709-1784 · inglés"
       },
-      "witnesses" : [
-        "tolstoy",
-        "schopenhauer",
-        "kierkegaard"
-      ]
+      "id": "johnson",
+      "name": "Samuel Johnson"
     },
     {
-      "accent" : "clay",
-      "body" : [
-        {
-          "en" : "We treat being alone as a problem to be solved, a deficit, a waiting room for company. It can be a destination.",
-          "es" : "Tratamos el estar solo como un problema que resolver, una carencia, una sala de espera para la compañía. Puede ser un destino.",
-          "type" : "lead"
-        },
-        {
-          "en" : "Montaigne kept what he called a back shop, a private room behind the public one, owned by no one else, where he could be entirely himself. Schopenhauer went further: a person is only fully themselves when alone, and whoever does not love solitude does not love freedom.",
-          "es" : "Montaigne guardaba lo que llamaba una trastienda, un cuarto privado detrás del público, que no era de nadie más, donde podía ser enteramente él mismo. Schopenhauer fue más lejos: una persona solo es plenamente ella misma cuando está sola, y quien no ama la soledad no ama la libertad.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "To be content alone is a skill, not a temperament. It is learning to be decent company to yourself, to sit in a quiet hour without reaching for noise, to find that your own mind is a place you can stand to be.",
-          "es" : "Estar a gusto a solas es una destreza, no un temperamento. Es aprender a ser compañía decente para ti, a sentarte en una hora callada sin buscar ruido, a descubrir que tu propia mente es un lugar en el que puedes soportar estar.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Rilke loved his solitude and asked only to be allowed to sing out of the pain it sometimes cost. Marcus dug, again and again, for the source of steadiness that is within and not in other people.",
-          "es" : "Rilke amó su soledad y solo pidió que le dejaran cantar con el dolor que a veces le costaba. Marco Aurelio cavaba, una y otra vez, por esa fuente de firmeza que está dentro y no en los demás.",
-          "type" : "paragraph"
-        },
-        {
-          "type" : "turn"
-        },
-        {
-          "en" : "This can curdle. Contentment alone can quietly become a refusal of everyone, a wall you mistake for a garden. The line is honest and thin: are you alone because it is full, or because other people have become too much to risk?",
-          "es" : "Esto puede agriarse. El estar a gusto a solas puede volverse calladamente un rechazo a todos, un muro que confundes con un jardín. La línea es honesta y delgada: ¿estás solo porque está lleno, o porque los demás se han vuelto demasiado para arriesgarte?",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "When you are by yourself, are you keeping your own company, or just avoiding everyone else's?",
-          "es" : "Cuando estás contigo, ¿te haces compañía, o solo evitas la de todos los demás?",
-          "type" : "question"
-        }
-      ],
-      "dek" : {
-        "en" : "Solitude not as exile, but as a room you are glad to enter.",
-        "es" : "La soledad no como destierro, sino como un cuarto en el que te alegra entrar."
+      "accent": "clayDeep",
+      "bio": {
+        "en": "Spanish philosopher of the tragic sense of life: the clash between the heart's hunger for meaning and the mind's refusal to grant it.",
+        "es": "Filósofo español del sentimiento trágico de la vida: el choque entre el hambre de sentido del corazón y la negativa de la razón a concederlo."
       },
-      "id" : "content-alone",
-      "kind" : "argument",
-      "title" : {
-        "en" : "Content in your own company",
-        "es" : "A gusto en tu propia compañía"
+      "epithet": {
+        "en": "1864-1936 · Spanish",
+        "es": "1864-1936 · español"
       },
-      "witnesses" : [
-        "montaigne",
-        "schopenhauer",
-        "rilke",
-        "marcus"
-      ]
+      "id": "unamuno",
+      "name": "Miguel de Unamuno"
     },
     {
-      "accent" : "clay",
-      "body" : [
-        {
-          "en" : "We have learned to romanticize solitude. We are quieter about what too much of it does.",
-          "es" : "Hemos aprendido a romantizar la soledad. Somos más callados sobre lo que hace demasiada de ella.",
-          "type" : "lead"
-        },
-        {
-          "en" : "Donne insisted that no one is an island, that another person's loss really does subtract from you, that we are pieces of one continent whether we like it or not. The self alone is not the whole truth of a self.",
-          "es" : "Donne insistió en que nadie es una isla, que la pérdida de otro de veras te resta, que somos trozos de un mismo continente, nos guste o no. El yo a solas no es toda la verdad de un yo.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Dostoevsky's man in the basement shows the rest: a mind left too long with only itself begins to rot, to argue with no one, to mistake its own spite for insight. Alone, the worst thoughts have no one to contradict them.",
-          "es" : "El hombre del subsuelo de Dostoyevski muestra el resto: una mente dejada demasiado tiempo a solas empieza a pudrirse, a discutir con nadie, a confundir su propio rencor con lucidez. A solas, los peores pensamientos no tienen quien los contradiga.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Pascal saw us flee solitude into endless distraction, which is its own sickness. But the cure for bad distraction is not infinite aloneness. A room with no door out stops being a refuge and becomes a cell.",
-          "es" : "Pascal nos vio huir de la soledad hacia la distracción sin fin, que es su propia enfermedad. Pero la cura de la mala distracción no es la soledad infinita. Un cuarto sin puerta de salida deja de ser refugio y se vuelve celda.",
-          "type" : "paragraph"
-        },
-        {
-          "type" : "turn"
-        },
-        {
-          "en" : "So both are true, and the difference is everything. Solitude that restores sends you back to people fuller. Isolation that erodes makes returning harder each day, until the wall you built for peace is the thing keeping the peace out.",
-          "es" : "Así que ambas son ciertas, y la diferencia es todo. La soledad que restaura te devuelve a la gente más lleno. El aislamiento que erosiona hace más difícil volver cada día, hasta que el muro que levantaste para la paz es lo que deja la paz afuera.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Is your aloneness sending you back to people, or slowly making them unreachable?",
-          "es" : "¿Tu soledad te devuelve a la gente, o poco a poco la vuelve inalcanzable?",
-          "type" : "question"
-        }
-      ],
-      "dek" : {
-        "en" : "The other face of solitude: the room that becomes a cell.",
-        "es" : "La otra cara de la soledad: el cuarto que se vuelve celda."
+      "accent": "mauve",
+      "bio": {
+        "en": "Poet of the modern city and of spleen, who found terrible beauty in decay and made it the subject of art. The patron of the romance of sorrow, and its sharpest witness.",
+        "es": "Poeta de la ciudad moderna y del spleen, que halló una belleza terrible en la decadencia y la hizo materia del arte. El patrono del romance de la tristeza, y su testigo más agudo."
       },
-      "id" : "solitude-harm",
-      "kind" : "argument",
-      "title" : {
-        "en" : "When being alone turns on you",
-        "es" : "Cuando estar solo se vuelve en tu contra"
+      "epithet": {
+        "en": "1821-1867 · French",
+        "es": "1821-1867 · francés"
       },
-      "witnesses" : [
-        "donne",
-        "dostoevsky",
-        "pascal"
-      ]
+      "id": "baudelaire",
+      "name": "Charles Baudelaire"
     },
     {
-      "accent" : "clay",
-      "body" : [
-        {
-          "en" : "When we are lowest, the thing we most need is usually the thing we most avoid.",
-          "es" : "Cuando estamos más bajos, lo que más necesitamos suele ser lo que más evitamos.",
-          "type" : "lead"
-        },
-        {
-          "en" : "Low, ashamed, or overwhelmed, we pull back from people, and at first it is a relief: no demands, no risk of being seen in this state, no effort. Isolation is not a character flaw. It is often the mind trying to protect you.",
-          "es" : "Bajos, avergonzados o desbordados, nos retraemos de la gente, y al principio es un alivio: sin exigencias, sin riesgo de ser vistos así, sin esfuerzo. Aislarse no es un defecto de carácter. Muchas veces es la mente intentando protegerte.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "But it runs in a loop. The relief is real and brief. Then the loneliness grows, and the low grows with it, and reaching out gets harder, which sends you further in, and the gap widens. Plath named the specific silence of it, not the silence of a room but your own.",
-          "es" : "Pero corre en un ciclo. El alivio es real y breve. Luego la soledad crece, y el ánimo bajo con ella, y acercarse cuesta más, lo que te hunde más, y la distancia se ensancha. Plath nombró el silencio específico de esto: no el silencio de un cuarto, sino el tuyo.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Shame does the talking. It whispers that you would be a burden, that no one wants this version of you, that it is kinder to disappear. It is almost never true, and it is very convincing.",
-          "es" : "La vergüenza es la que habla. Susurra que serías una carga, que nadie quiere esta versión de ti, que es más amable desaparecer. Casi nunca es cierto, y es muy convincente.",
-          "type" : "paragraph"
-        },
-        {
-          "type" : "turn"
-        },
-        {
-          "en" : "Kafka asked for stillness, for waiting alone until the world offers itself. But there is a stillness that listens and a stillness that hides, and the second one calls itself the first. The hardest, most useful thing is to reach out at the exact moment every instinct says to vanish.",
-          "es" : "Kafka pedía quietud, esperar a solas hasta que el mundo se ofrezca. Pero hay una quietud que escucha y una que se esconde, y la segunda se hace llamar la primera. Lo más difícil y más útil es acercarse en el instante exacto en que todo instinto dice desaparecer.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "When you go quiet, are you resting, or are you hiding, and who would you call if you let yourself?",
-          "es" : "Cuando te callas, ¿descansas o te escondes, y a quién llamarías si te lo permitieras?",
-          "type" : "question"
-        }
-      ],
-      "dek" : {
-        "en" : "The retreat that feels like relief and deepens the very thing it flees.",
-        "es" : "El retiro que se siente como alivio y profundiza justo aquello de lo que huye."
+      "accent": "sky",
+      "bio": {
+        "en": "Italian poet of cosmic pessimism, who wrote some of the most beautiful lines ever set against the bleakest view of existence.",
+        "es": "Poeta italiano del pesimismo cósmico, que escribió algunos de los versos más hermosos jamás puestos frente a la visión más sombría de la existencia."
       },
-      "id" : "why-we-isolate",
-      "kind" : "explanation",
-      "title" : {
-        "en" : "Why we pull away when we most need not to",
-        "es" : "Por qué nos alejamos justo cuando menos deberíamos"
+      "epithet": {
+        "en": "1798-1837 · Italian",
+        "es": "1798-1837 · italiano"
       },
-      "witnesses" : [
-        "plath",
-        "kafka"
-      ]
+      "id": "leopardi",
+      "name": "Giacomo Leopardi"
     },
     {
-      "accent" : "clay",
-      "body" : [
-        {
-          "en" : "Pain is not only damage. It is information. It tells you, with terrible precision, what you care about.",
-          "es" : "El dolor no es solo daño. Es información. Te dice, con una precisión terrible, qué te importa.",
-          "type" : "lead"
-        },
-        {
-          "en" : "You do not grieve what you did not love. You are not wounded by what does not matter. The size of the suffering is, often, the measure of the value. Unamuno tied it tight: it is only suffering that makes us persons, the substance of a self.",
-          "es" : "No lloras lo que no amaste. No te hiere lo que no importa. El tamaño del sufrimiento es, muchas veces, la medida del valor. Unamuno lo ató fuerte: solo sufriendo se es persona, la sustancia de un yo.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Nietzsche saw the lever in it: whoever has a why to live can bear almost any how. The pain becomes survivable the moment it points at something, a reason, a person, a work worth the cost.",
-          "es" : "Nietzsche vio la palanca: quien tiene un porqué para vivir puede soportar casi cualquier cómo. El dolor se vuelve soportable en cuanto señala algo, una razón, una persona, una obra que valga el costo.",
-          "type" : "paragraph"
-        },
-        {
-          "type" : "turn"
-        },
-        {
-          "en" : "But here the pointer can lie. If suffering reveals meaning, it is a short step to believing meaning requires suffering, that the pain is the proof, that to stop hurting is to stop caring. Dostoevsky's characters make that mistake beautifully and ruinously.",
-          "es" : "Pero aquí el dedo que señala puede mentir. Si el sufrimiento revela sentido, hay un paso corto hacia creer que el sentido exige sufrimiento, que el dolor es la prueba, que dejar de doler es dejar de importar. Los personajes de Dostoyevski cometen ese error de forma hermosa y ruinosa.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Suffering can show you your purpose. It does not follow that you owe your purpose more suffering. The wound can be a map without being a home.",
-          "es" : "El sufrimiento puede mostrarte tu propósito. De ahí no se sigue que le debas a tu propósito más sufrimiento. La herida puede ser un mapa sin ser un hogar.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "What does your pain keep pointing at, and have you mistaken the pointing for the place?",
-          "es" : "¿Hacia qué sigue señalando tu dolor, y has confundido el señalar con el lugar?",
-          "type" : "question"
-        }
-      ],
-      "dek" : {
-        "en" : "The strange way pain points at meaning, and the danger of trusting the pointer.",
-        "es" : "El modo extraño en que el dolor señala el sentido, y el peligro de confiar en el dedo que señala."
+      "accent": "peach",
+      "bio": {
+        "en": "American poet who wrote, from near-total seclusion, the most precise anatomy of pain, death, and the soul that we have.",
+        "es": "Poeta estadounidense que escribió, desde un retiro casi total, la anatomía más precisa que tenemos del dolor, la muerte y el alma."
       },
-      "id" : "suffering-purpose",
-      "kind" : "argument",
-      "title" : {
-        "en" : "We find our purpose in what hurts us",
-        "es" : "Encontramos nuestro propósito en lo que nos hiere"
+      "epithet": {
+        "en": "1830-1886 · American",
+        "es": "1830-1886 · estadounidense"
       },
-      "witnesses" : [
-        "unamuno",
-        "nietzsche",
-        "dostoevsky"
-      ]
+      "id": "dickinson",
+      "name": "Emily Dickinson"
     },
     {
-      "accent" : "clay",
-      "body" : [
-        {
-          "en" : "We treat suffering as the worst thing that can happen to a life. It is not.",
-          "es" : "Tratamos el sufrimiento como lo peor que le puede pasar a una vida. No lo es.",
-          "type" : "lead"
-        },
-        {
-          "en" : "Nietzsche's line is usually quoted as comfort, but it is really a ranking: whoever has a why can bear almost any how. The unbearable thing is not the how. It is the missing why. Pain with a reason can be carried. Comfort without one cannot.",
-          "es" : "La línea de Nietzsche suele citarse como consuelo, pero en realidad es una jerarquía: quien tiene un porqué puede soportar casi cualquier cómo. Lo insoportable no es el cómo. Es el porqué que falta. El dolor con una razón puede cargarse. El bienestar sin ninguna, no.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Dostoevsky set the bar past mere survival: the mystery of a life is not staying alive but finding something to live for. The empty, painless drift, the well-fed nothing, is the fate his characters fear more than any wound.",
-          "es" : "Dostoyevski puso el listón más allá de la mera supervivencia: el misterio de una vida no es seguir vivo sino encontrar algo por lo que vivir. La deriva vacía y sin dolor, la nada bien alimentada, es la suerte que sus personajes temen más que cualquier herida.",
-          "type" : "paragraph"
-        },
-        {
-          "type" : "turn"
-        },
-        {
-          "en" : "This is dangerous if you stop reading there. A purpose can become a tyrant, and suffering for your why can quietly become being consumed by it, martyrdom mistaken for meaning. There is suffering that serves a purpose and suffering that just devours one.",
-          "es" : "Esto es peligroso si dejas de leer ahí. Un propósito puede volverse un tirano, y 'sufrir por tu porqué' puede volverse calladamente ser devorado por él, el martirio confundido con el sentido. Hay sufrimiento que sirve a un propósito y sufrimiento que solo lo devora.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "But the core holds. Tolstoy, drowning in comfort, was saved not from pain but from purposelessness. Better the hard road that goes somewhere than the soft one that goes nowhere with your eyes closed.",
-          "es" : "Pero el núcleo se sostiene. A Tolstói, ahogándose en comodidad, no lo salvó del dolor sino de la falta de propósito. Mejor el camino difícil que va a alguna parte que el suave que no va a ninguna con los ojos cerrados.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Would you trade a painless life with no reason for a hard one that meant something, and are you sure?",
-          "es" : "¿Cambiarías una vida sin dolor y sin razón por una difícil que significara algo, y estás seguro?",
-          "type" : "question"
-        }
-      ],
-      "dek" : {
-        "en" : "Nietzsche's wager taken seriously: the emptiness that is worse than pain.",
-        "es" : "La apuesta de Nietzsche tomada en serio: el vacío que es peor que el dolor."
+      "accent": "peach",
+      "bio": {
+        "en": "English Romantic who died at twenty-five, and who understood better than anyone how close beauty, joy, and death stand to one another.",
+        "es": "Romántico inglés que murió a los veinticinco, y que entendió mejor que nadie lo cerca que están la belleza, la dicha y la muerte."
       },
-      "id" : "purpose-over-comfort",
-      "kind" : "argument",
-      "title" : {
-        "en" : "Better to suffer for a why than to drift without one",
-        "es" : "Mejor sufrir por un porqué que ir a la deriva sin ninguno"
+      "epithet": {
+        "en": "1795-1821 · English",
+        "es": "1795-1821 · inglés"
       },
-      "witnesses" : [
-        "nietzsche",
-        "dostoevsky",
-        "tolstoy"
-      ]
+      "id": "keats",
+      "name": "John Keats"
     },
     {
-      "accent" : "clay",
-      "body" : [
-        {
-          "en" : "There is no single you that everyone sees. There are as many of you as there are people who know your name.",
-          "es" : "No hay un único tú que todos vean. Hay tantos tús como personas que saben tu nombre.",
-          "type" : "lead"
-        },
-        {
-          "en" : "Your mother holds one. A stranger on the train, who decided who you were in three seconds, holds another. Someone who hates you carries a portrait you would not recognize and could not entirely deny. Each is partial. Each is, in its way, real.",
-          "es" : "Tu madre sostiene uno. Un desconocido en el tren, que decidió quién eras en tres segundos, sostiene otro. Alguien que te odia carga un retrato que no reconocerías y no podrías negar del todo. Cada uno es parcial. Cada uno es, a su manera, real.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Montaigne found, looking honestly, that even he could not pin down a single stable self; he changed by the hour, contradicted himself, was a different man in the morning than at night. If you cannot hold one steady version of yourself, what hope has anyone else.",
-          "es" : "Montaigne descubrió, mirándose con honestidad, que ni él podía fijar un yo único y estable; cambiaba de una hora a otra, se contradecía, era un hombre por la mañana y otro de noche. Si no puedes sostener una versión firme de ti mismo, qué esperanza tiene cualquier otro.",
-          "type" : "paragraph"
-        },
-        {
-          "type" : "turn"
-        },
-        {
-          "en" : "This is lonely. To be known by everyone and whole by no one is a quiet kind of exile. But it is also a strange freedom. You are not the worst portrait. You are not the best one either. None of them is the verdict.",
-          "es" : "Esto es solitario. Ser conocido por todos y entero por nadie es una forma callada de destierro. Pero también es una libertad extraña. No eres el peor retrato. Tampoco el mejor. Ninguno es el veredicto.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Unamuno knew the hunger to be fully known, to survive entire in someone's eyes. We almost never get it. We are always a draft in someone else's hands.",
-          "es" : "Unamuno conocía el hambre de ser plenamente conocido, de sobrevivir entero en los ojos de alguien. Casi nunca lo logramos. Siempre somos un borrador en manos de otro.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Whose version of you have you started believing, and is it theirs or yours?",
-          "es" : "¿De quién has empezado a creerte la versión de ti, y es la de esa persona o la tuya?",
-          "type" : "question"
-        }
-      ],
-      "dek" : {
-        "en" : "The self splinters into a dozen portraits, none of them whole, and maybe none of them you.",
-        "es" : "El yo se astilla en una docena de retratos, ninguno completo, y quizá ninguno tú."
+      "accent": "mauve",
+      "bio": {
+        "en": "Priest and poet whose terrible sonnets record despair in a language wrenched into new shapes by the force of it.",
+        "es": "Sacerdote y poeta cuyos sonetos terribles registran la desesperación en un lenguaje retorcido en formas nuevas por la fuerza de ella."
       },
-      "id" : "many-selves",
-      "kind" : "explanation",
-      "title" : {
-        "en" : "Everyone you know is holding a different version of you",
-        "es" : "Cada persona que te conoce sostiene una versión distinta de ti"
+      "epithet": {
+        "en": "1844-1889 · English",
+        "es": "1844-1889 · inglés"
       },
-      "witnesses" : [
-        "montaigne",
-        "unamuno"
-      ]
+      "id": "hopkins",
+      "name": "Gerard Manley Hopkins"
     },
     {
-      "accent" : "clay",
-      "body" : [
-        {
-          "en" : "Stoicism is having a moment, and most of what wears its name would have horrified the Stoics.",
-          "es" : "El estoicismo está de moda, y casi todo lo que lleva su nombre habría horrorizado a los estoicos.",
-          "type" : "lead"
-        },
-        {
-          "en" : "The version that sells is a posture: feel nothing, need no one, grind in silence, be unbothered as a flex. Emotion as weakness. Detachment as strength. A cold, armored self that has simply stopped letting anything in.",
-          "es" : "La versión que se vende es una pose: no sentir nada, no necesitar a nadie, trabajar en silencio, no inmutarse como alarde. La emoción como debilidad. El desapego como fuerza. Un yo frío y blindado que simplemente ha dejado de dejar entrar nada.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "That is not what they taught. Epictetus drew a line between what is yours and what is not, and asked you to spend your effort only on the first, not to amputate feeling but to aim it. Marcus wrote his notes to himself, in private, full of doubt and tenderness and duty to other people, not to perform a hardness for an audience.",
-          "es" : "No es lo que enseñaron. Epicteto trazó una línea entre lo que es tuyo y lo que no, y pidió que gastaras tu esfuerzo solo en lo primero, no amputar el sentir sino apuntarlo. Marco Aurelio escribió sus notas para sí mismo, en privado, llenas de duda, ternura y deber hacia los demás, no para actuar una dureza ante un público.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Real Stoicism is not the absence of feeling. It is the refusal to be ruled by the parts of life you cannot control, in the service of virtue and of others. Seneca wept; he just would not be enslaved by what he wept over.",
-          "es" : "El estoicismo real no es la ausencia de emoción. Es negarse a ser gobernado por las partes de la vida que no puedes controlar, al servicio de la virtud y de los otros. Séneca lloraba; solo no se dejaba esclavizar por aquello que lloraba.",
-          "type" : "paragraph"
-        },
-        {
-          "type" : "turn"
-        },
-        {
-          "en" : "The internet version keeps the armor and throws away the ethics. It uses stoic to mean avoidant, and sells emotional suppression as wisdom to people who are mostly just afraid to feel.",
-          "es" : "La versión de internet conserva la armadura y tira la ética. Usa estoico para decir evitativo, y vende la represión emocional como sabiduría a gente que, casi siempre, solo tiene miedo de sentir.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "When you call yourself unbothered, are you disciplined, or just defended?",
-          "es" : "Cuando te dices imperturbable, ¿estás disciplinado, o solo defendido?",
-          "type" : "question"
-        }
-      ],
-      "dek" : {
-        "en" : "How 'be unbothered' became a brand, and what it gets wrong about Marcus and Epictetus.",
-        "es" : "Cómo 'no inmutarse' se volvió una marca, y qué malentiende sobre Marco Aurelio y Epicteto."
+      "accent": "clayDeep",
+      "bio": {
+        "en": "American master of dread and grief, who turned mourning and the macabre into exacting art, and knew exactly what he was doing.",
+        "es": "Maestro estadounidense del pavor y el duelo, que convirtió el luto y lo macabro en arte exacto, y sabía muy bien lo que hacía."
       },
-      "id" : "fake-stoicism",
-      "kind" : "argument",
-      "title" : {
-        "en" : "The Stoicism the internet sells you",
-        "es" : "El estoicismo que te vende internet"
+      "epithet": {
+        "en": "1809-1849 · American",
+        "es": "1809-1849 · estadounidense"
       },
-      "witnesses" : [
-        "epictetus",
-        "marcus",
-        "seneca"
-      ]
+      "id": "poe",
+      "name": "Edgar Allan Poe"
     },
     {
-      "accent" : "clay",
-      "body" : [
-        {
-          "en" : "We treat the question 'what is the point of all this' as a problem to be solved. What if the question is the problem.",
-          "es" : "Tratamos la pregunta 'cuál es el sentido de todo esto' como un problema que resolver. ¿Y si la pregunta es el problema?",
-          "type" : "lead"
-        },
-        {
-          "en" : "Camus's stranger moves through his life refusing to supply the meanings everyone demands of him, and it reads at first as emptiness, even as monstrousness. Only at the end does something turn: he stops asking the world to mean, meets its vast indifference, and finds in it a strange, terrible peace.",
-          "es" : "El extranjero de Camus atraviesa su vida negándose a aportar los sentidos que todos le exigen, y al principio se lee como vacío, hasta como monstruosidad. Solo al final algo gira: deja de pedirle al mundo que signifique, se encuentra con su vasta indiferencia, y halla en ella una paz extraña y terrible.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Set against him, Dostoevsky's underground man is all question and no peace, a consciousness that cannot stop interrogating its own life and is tortured by exactly that. The demand for an answer is the disease he cannot cure.",
-          "es" : "Frente a él, el hombre del subsuelo de Dostoyevski es todo pregunta y nada de paz, una conciencia que no puede dejar de interrogar su propia vida y es torturada por exactamente eso. La exigencia de una respuesta es la enfermedad que no puede curar.",
-          "type" : "paragraph"
-        },
-        {
-          "type" : "turn"
-        },
-        {
-          "en" : "So the absurd suggestion: maybe the suffering is not the lack of meaning but the insistence on it, the endless asking of a universe that was never going to reply. Set the question down and the silence stops being an insult.",
-          "es" : "Así que la sugerencia absurda: quizá el sufrimiento no es la falta de sentido sino la insistencia en él, el preguntar sin fin a un universo que nunca iba a contestar. Suelta la pregunta y el silencio deja de ser un insulto.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "But do not romanticize the stranger's calm. His peace is also a kind of deadness; a man who needs nothing to mean may have stopped being fully alive. Releasing the demand is not the same as feeling nothing.",
-          "es" : "Pero no romantices la calma del extranjero. Su paz es también una especie de muerte; un hombre que no necesita que nada signifique quizá ha dejado de estar plenamente vivo. Soltar la exigencia no es lo mismo que no sentir nada.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Is your unhappiness the absence of an answer, or the refusal to stop demanding one?",
-          "es" : "¿Tu infelicidad es la ausencia de una respuesta, o la negativa a dejar de exigir una?",
-          "type" : "question"
-        }
-      ],
-      "dek" : {
-        "en" : "When asking 'what is the point' is the very thing tormenting us (Camus, Dostoevsky).",
-        "es" : "Cuando preguntar 'cuál es el sentido' es justo lo que nos atormenta (Camus, Dostoyevski)."
+      "accent": "clay",
+      "bio": {
+        "en": "The Romantic celebrity, restless and self-dramatizing, who chased sensation as proof of being alive.",
+        "es": "La celebridad romántica, inquieta y dada al autodrama, que persiguió la sensación como prueba de estar vivo."
       },
-      "id" : "meaning-is-the-wound",
-      "kind" : "argument",
-      "title" : {
-        "en" : "The search for meaning is the wound, not the cure",
-        "es" : "La búsqueda de sentido es la herida, no la cura"
+      "epithet": {
+        "en": "1788-1824 · English",
+        "es": "1788-1824 · inglés"
       },
-      "witnesses" : [
-        "camus",
-        "dostoevsky"
-      ]
+      "id": "byron",
+      "name": "Lord Byron"
     },
     {
-      "accent" : "clay",
-      "body" : [
-        {
-          "en" : "Not feeling anything can look a great deal like having finally risen above it all.",
-          "es" : "No sentir nada puede parecerse muchísimo a haberse elevado por fin sobre todo.",
-          "type" : "lead"
-        },
-        {
-          "en" : "Peace and numbness wear the same still face. Both are quiet. Both have stopped struggling. But one is full and one is empty, and from the inside, in the worst stretches, they are easy to confuse. You tell yourself you have found calm when you have actually just gone dark.",
-          "es" : "La paz y el entumecimiento llevan el mismo rostro quieto. Ambos son callados. Ambos han dejado de luchar. Pero uno está lleno y el otro vacío, y desde dentro, en los peores tramos, es fácil confundirlos. Te dices que hallaste calma cuando en realidad solo te apagaste.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Plath named it exactly: the stillness at the eye of the storm, not serenity but a dull, moving quiet while the world keeps its noise. Coleridge knew the grief with no pang, drowsy and airless, the sorrow with the feeling drained out of it, which is worse than the sharp kind because it cannot even cry.",
-          "es" : "Plath lo nombró con exactitud: la quietud en el ojo de la tormenta, no serenidad sino un silencio sordo y en movimiento mientras el mundo conserva su ruido. Coleridge conocía la pena sin punzada, somnolienta y sin aire, la tristeza con el sentir drenado, que es peor que la aguda porque ni siquiera puede llorar.",
-          "type" : "paragraph"
-        },
-        {
-          "type" : "turn"
-        },
-        {
-          "en" : "The test is what the calm can hold. Real peace can carry pain and joy and other people; it has room. Numbness can carry nothing; it is room with the lights off. One is a clear sky. The other is a sealed one.",
-          "es" : "La prueba es qué puede contener la calma. La paz verdadera puede cargar dolor y dicha y a otros; tiene espacio. El entumecimiento no puede cargar nada; es espacio con las luces apagadas. Uno es un cielo despejado. El otro, uno sellado.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Is the quiet you are in spacious, or just empty, and when did you last feel anything at all?",
-          "es" : "La quietud en la que estás, ¿es amplia, o solo está vacía, y cuándo sentiste algo por última vez?",
-          "type" : "question"
-        }
-      ],
-      "dek" : {
-        "en" : "The flat calm that feels like serenity and is often depression in disguise.",
-        "es" : "La calma plana que se siente como serenidad y a menudo es depresión disfrazada."
+      "accent": "sky",
+      "bio": {
+        "en": "Poet of the imagination and of its failure, who wrote dejection from the inside while it stole his power to write.",
+        "es": "Poeta de la imaginación y de su fracaso, que escribió el abatimiento desde dentro mientras este le robaba el poder de escribir."
       },
-      "id" : "numbness-peace",
-      "kind" : "explanation",
-      "title" : {
-        "en" : "We mistake numbness for peace",
-        "es" : "Confundimos el entumecimiento con la paz"
+      "epithet": {
+        "en": "1772-1834 · English",
+        "es": "1772-1834 · inglés"
       },
-      "witnesses" : [
-        "plath",
-        "coleridge"
-      ]
+      "id": "coleridge",
+      "name": "Samuel Taylor Coleridge"
     },
     {
-      "accent" : "clay",
-      "body" : [
-        {
-          "en" : "Nostalgia is not memory. It is memory with an editor, and the editor is kind to the past and cruel to now.",
-          "es" : "La nostalgia no es memoria. Es memoria con editor, y el editor es amable con el pasado y cruel con el ahora.",
-          "type" : "lead"
-        },
-        {
-          "en" : "The thing we ache for, the golden year, the simpler time, did not happen the way we remember it. We have trimmed the boredom, the fear, the ordinary misery, and kept the warm light. We long for a place that does not exist and never quite did.",
-          "es" : "Aquello que añoramos, el año dorado, la época más simple, no ocurrió como lo recordamos. Hemos recortado el aburrimiento, el miedo, la miseria ordinaria, y conservado la luz cálida. Añoramos un lugar que no existe y nunca existió del todo.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Leopardi understood that the longing itself can be sweeter than anything it longs for; the distance is what makes it glow. The function is rarely innocent: a past polished this brightly is usually a way of not looking at the present, which has the disadvantage of being real.",
-          "es" : "Leopardi entendía que el anhelo mismo puede ser más dulce que cualquier cosa anhelada; la distancia es lo que lo hace brillar. La función rara vez es inocente: un pasado pulido con tanto brillo suele ser una forma de no mirar el presente, que tiene la desventaja de ser real.",
-          "type" : "paragraph"
-        },
-        {
-          "type" : "turn"
-        },
-        {
-          "en" : "And yet. Nostalgia also keeps something true alive, a value, a tenderness, a sense of what mattered. The lie is not in loving the past. It is in moving there.",
-          "es" : "Y sin embargo. La nostalgia también mantiene vivo algo verdadero, un valor, una ternura, un sentido de lo que importó. La mentira no está en amar el pasado. Está en mudarse a él.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "What are you remembering more fondly than it deserves, and what about now are you using it to avoid?",
-          "es" : "¿Qué estás recordando con más cariño del que merece, y qué del ahora estás usando para evitar?",
-          "type" : "question"
-        }
-      ],
-      "dek" : {
-        "en" : "Romanticizing a past that never quite was, to avoid a present that is.",
-        "es" : "Romantizar un pasado que no fue del todo, para evitar un presente que sí es."
+      "accent": "sage",
+      "bio": {
+        "en": "Poet of solitude, longing, and a beauty that borders on terror. His Letters to a Young Poet are a quiet instruction in being alone.",
+        "es": "Poeta de la soledad, el anhelo y una belleza que linda con el terror. Sus Cartas a un joven poeta son una instrucción callada sobre estar a solas."
       },
-      "id" : "nostalgia-lie",
-      "kind" : "demonstration",
-      "title" : {
-        "en" : "Nostalgia is a lie we agree to believe",
-        "es" : "La nostalgia es una mentira que aceptamos creer"
+      "epithet": {
+        "en": "1875-1926 · Prague-born, wrote in German",
+        "es": "1875-1926 · nacido en Praga, escribió en alemán"
       },
-      "witnesses" : [
-        "leopardi"
-      ]
+      "id": "rilke",
+      "name": "Rainer Maria Rilke"
     },
     {
-      "accent" : "clay",
-      "body" : [
-        {
-          "en" : "We tend to trust the person who talks the most, and we are wrong about as often as we are right.",
-          "es" : "Solemos confiar en quien más habla, y nos equivocamos casi tan seguido como acertamos.",
-          "type" : "lead"
-        },
-        {
-          "en" : "Fluency imitates depth. The one who speaks quickly, constantly, certainly, sounds like they know, and in a room the confident voice wins long before the true one does. Volume is mistaken for weight.",
-          "es" : "La fluidez imita la hondura. Quien habla rápido, sin parar, con certeza, suena como si supiera, y en una sala la voz segura gana mucho antes que la verdadera. Se confunde el volumen con el peso.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "But Pascal located our worst troubles in the inability to sit quietly alone, and the person who cannot stop talking is often the one who cannot bear that silence. Montaigne, who actually thought for a living, distrusted his own certainty and said less than he knew. Kafka asked us to wait, to be still, and let the world show itself, which is the opposite of filling every gap with noise.",
-          "es" : "Pero Pascal ubicó nuestros peores males en la incapacidad de quedarnos quietos a solas, y quien no puede dejar de hablar suele ser quien no soporta ese silencio. Montaigne, que de veras pensaba como oficio, desconfiaba de su propia certeza y decía menos de lo que sabía. Kafka nos pidió esperar, estar quietos y dejar que el mundo se mostrara, que es lo contrario de llenar cada hueco con ruido.",
-          "type" : "paragraph"
-        },
-        {
-          "type" : "turn"
-        },
-        {
-          "en" : "This does not make silence wise by itself. Some quiet is just empty, a hidden shallowness rather than a deep one. The real test was never volume. It is whether the words have anything under them.",
-          "es" : "Esto no vuelve sabio al silencio por sí mismo. Algún silencio solo está vacío, una superficialidad escondida en vez de una hondura. La prueba nunca fue el volumen. Es si las palabras tienen algo debajo.",
-          "type" : "paragraph"
-        },
-        {
-          "en" : "Whose confidence have you mistaken for depth, and whose silence have you mistaken for having nothing to say?",
-          "es" : "¿La confianza de quién has confundido con hondura, y el silencio de quién has confundido con no tener nada que decir?",
-          "type" : "question"
-        }
-      ],
-      "dek" : {
-        "en" : "Why fluency and volume read as intelligence, and the quiet thinker gets overlooked.",
-        "es" : "Por qué la fluidez y el volumen se leen como inteligencia, y al pensador callado se le pasa por alto."
+      "accent": "clayDeep",
+      "bio": {
+        "en": "Author of Paradise Lost, who gave despair and defiance their grandest English voice in the mouth of a fallen angel.",
+        "es": "Autor de El paraíso perdido, que dio a la desesperación y al desafío su voz inglesa más grandiosa en boca de un ángel caído."
       },
-      "id" : "loud-not-deep",
-      "kind" : "argument",
-      "title" : {
-        "en" : "We mistake the loud for the wise",
-        "es" : "Confundimos lo ruidoso con lo sabio"
+      "epithet": {
+        "en": "1608-1674 · English",
+        "es": "1608-1674 · inglés"
       },
-      "witnesses" : [
-        "pascal",
-        "montaigne",
-        "kafka"
-      ]
-    }
-  ],
-  "version" : 1,
-  "voices" : [
-    {
-      "accent" : "clayDeep",
-      "bio" : {
-        "en" : "A philosopher who took a hammer to inherited comforts. He saw suffering not as something to be cured but as something to be made into form, and warned as often as he exhorted.",
-        "es" : "Un filósofo que tomó un martillo contra los consuelos heredados. Vio el sufrimiento no como algo que curar sino como algo a lo que dar forma, y advirtió tanto como exhortó."
-      },
-      "epithet" : {
-        "en" : "1844-1900 · German",
-        "es" : "1844-1900 · alemán"
-      },
-      "id" : "nietzsche",
-      "name" : "Friedrich Nietzsche"
+      "id": "milton",
+      "name": "John Milton"
     },
     {
-      "accent" : "mauve",
-      "bio" : {
-        "en" : "Novelist of fevered consciences and basement honesty. He believed suffering and freedom were tangled together, and that a person needs something to live for more than they need to be comfortable.",
-        "es" : "Novelista de conciencias afiebradas y honestidad de subsuelo. Creía que el sufrimiento y la libertad estaban enredados, y que una persona necesita algo por lo que vivir más de lo que necesita estar cómoda."
+      "accent": "sky",
+      "bio": {
+        "en": "Metaphysical poet and preacher who wrote about death and human connection with equal, startling force.",
+        "es": "Poeta metafísico y predicador que escribió sobre la muerte y el vínculo humano con una fuerza igual y sorprendente."
       },
-      "epithet" : {
-        "en" : "1821-1881 · Russian",
-        "es" : "1821-1881 · ruso"
+      "epithet": {
+        "en": "1572-1631 · English",
+        "es": "1572-1631 · inglés"
       },
-      "id" : "dostoevsky",
-      "name" : "Fyodor Dostoevsky"
+      "id": "donne",
+      "name": "John Donne"
     },
     {
-      "accent" : "sage",
-      "bio" : {
-        "en" : "Writer of locked doors and patient dread. His sentences are calm and his world is not, and the gap between the two is the most honest joke in modern literature.",
-        "es" : "Escritor de puertas cerradas y temor paciente. Sus frases son serenas y su mundo no lo es, y la distancia entre ambos es la broma más honesta de la literatura moderna."
+      "accent": "peach",
+      "bio": {
+        "en": "Spanish Romantic poet of love, loss, and the loneliness of the dead. Spare, musical, and sad.",
+        "es": "Poeta romántico español del amor, la pérdida y la soledad de los muertos. Sobrio, musical y triste."
       },
-      "epithet" : {
-        "en" : "1883-1924 · Prague, wrote in German",
-        "es" : "1883-1924 · Praga, escribió en alemán"
+      "epithet": {
+        "en": "1836-1870 · Spanish",
+        "es": "1836-1870 · español"
       },
-      "id" : "kafka",
-      "name" : "Franz Kafka"
+      "id": "becquer",
+      "name": "Gustavo Adolfo Bécquer"
     },
     {
-      "accent" : "clayDeep",
-      "bio" : {
-        "en" : "The philosopher of the will and of pessimism. He held that existence is driven by a blind striving that can never be satisfied, and that to see this clearly is the beginning of wisdom.",
-        "es" : "El filósofo de la voluntad y del pesimismo. Sostuvo que la existencia la mueve un anhelo ciego que nunca se sacia, y que verlo con claridad es el comienzo de la sabiduría."
+      "accent": "mauve",
+      "bio": {
+        "en": "Mexican nun, scholar, and poet of the Baroque, who defended the life of the mind against a world that wanted her silent.",
+        "es": "Monja, erudita y poeta mexicana del Barroco, que defendió la vida del intelecto contra un mundo que la quería callada."
       },
-      "epithet" : {
-        "en" : "1788-1860 · German",
-        "es" : "1788-1860 · alemán"
+      "epithet": {
+        "en": "1648-1695 · Mexican",
+        "es": "1648-1695 · mexicana"
       },
-      "id" : "schopenhauer",
-      "name" : "Arthur Schopenhauer"
-    },
-    {
-      "accent" : "sky",
-      "bio" : {
-        "en" : "The melancholy Dane, first of the existentialists. He wrote about anxiety, despair, and the leap of faith with a restless, ironic intensity.",
-        "es" : "El melancólico danés, primero de los existencialistas. Escribió sobre la angustia, la desesperación y el salto de fe con una intensidad inquieta e irónica."
-      },
-      "epithet" : {
-        "en" : "1813-1855 · Danish",
-        "es" : "1813-1855 · danés"
-      },
-      "id" : "kierkegaard",
-      "name" : "Søren Kierkegaard"
-    },
-    {
-      "accent" : "mauve",
-      "bio" : {
-        "en" : "Mathematician and believer who stared into the cosmic void and named our flight from it. The Pensées map the misery and the greatness of being human.",
-        "es" : "Matemático y creyente que miró el vacío cósmico y nombró nuestra huida de él. Los Pensamientos trazan la miseria y la grandeza de ser humano."
-      },
-      "epithet" : {
-        "en" : "1623-1662 · French",
-        "es" : "1623-1662 · francés"
-      },
-      "id" : "pascal",
-      "name" : "Blaise Pascal"
-    },
-    {
-      "accent" : "sage",
-      "bio" : {
-        "en" : "Late in life the great novelist faced the question of whether anything he did could matter against death. A Confession is that reckoning.",
-        "es" : "Ya mayor, el gran novelista enfrentó la pregunta de si algo de lo que hiciera podía importar frente a la muerte. Confesión es ese ajuste de cuentas."
-      },
-      "epithet" : {
-        "en" : "1828-1910 · Russian",
-        "es" : "1828-1910 · ruso"
-      },
-      "id" : "tolstoy",
-      "name" : "Leo Tolstoy"
-    },
-    {
-      "accent" : "peach",
-      "bio" : {
-        "en" : "Roman emperor and Stoic, who wrote his Meditations to himself, never for us. A manual for enduring a life you did not choose.",
-        "es" : "Emperador romano y estoico, que escribió sus Meditaciones para sí mismo, nunca para nosotros. Un manual para soportar una vida que no elegiste."
-      },
-      "epithet" : {
-        "en" : "121-180 · Roman, Stoic",
-        "es" : "121-180 · romano, estoico"
-      },
-      "id" : "marcus",
-      "name" : "Marcus Aurelius"
-    },
-    {
-      "accent" : "sky",
-      "bio" : {
-        "en" : "Stoic, statesman, and letter-writer on how to live and how to die. Practical, unsparing, and oddly consoling.",
-        "es" : "Estoico, hombre de Estado y autor de cartas sobre cómo vivir y cómo morir. Práctico, implacable y, de un modo extraño, consolador."
-      },
-      "epithet" : {
-        "en" : "c. 4 BCE-65 CE · Roman, Stoic",
-        "es" : "c. 4 a. C.-65 d. C. · romano, estoico"
-      },
-      "id" : "seneca",
-      "name" : "Seneca"
-    },
-    {
-      "accent" : "sage",
-      "bio" : {
-        "en" : "Born a slave, he taught that we control nothing but our own judgments, and that this is enough to be free.",
-        "es" : "Nacido esclavo, enseñó que no controlamos nada salvo nuestros propios juicios, y que eso basta para ser libres."
-      },
-      "epithet" : {
-        "en" : "c. 50-135 · Greek, Stoic",
-        "es" : "c. 50-135 · griego, estoico"
-      },
-      "id" : "epictetus",
-      "name" : "Epictetus"
-    },
-    {
-      "accent" : "mauve",
-      "bio" : {
-        "en" : "The inventor of the essay, who turned the examination of himself into a way of facing death, doubt, and the ordinary.",
-        "es" : "El inventor del ensayo, que convirtió el examen de sí mismo en una manera de enfrentar la muerte, la duda y lo ordinario."
-      },
-      "epithet" : {
-        "en" : "1533-1592 · French",
-        "es" : "1533-1592 · francés"
-      },
-      "id" : "montaigne",
-      "name" : "Michel de Montaigne"
-    },
-    {
-      "accent" : "clay",
-      "bio" : {
-        "en" : "The lens-grinder who built ethics like geometry. He argued that freedom is understanding necessity, and that dwelling on death is a kind of bondage.",
-        "es" : "El pulidor de lentes que construyó la ética como una geometría. Sostuvo que la libertad es comprender la necesidad, y que rumiar la muerte es una forma de servidumbre."
-      },
-      "epithet" : {
-        "en" : "1632-1677 · Dutch",
-        "es" : "1632-1677 · neerlandés"
-      },
-      "id" : "spinoza",
-      "name" : "Baruch Spinoza"
-    },
-    {
-      "accent" : "clay",
-      "bio" : {
-        "en" : "The great moralist of English letters, enemy of self-deception and of the romance of melancholy. He prescribed motion, work, and clear sight against the diseases of the imagination.",
-        "es" : "El gran moralista de las letras inglesas, enemigo del autoengaño y del romance de la melancolía. Recetó movimiento, trabajo y mirada clara contra las enfermedades de la imaginación."
-      },
-      "epithet" : {
-        "en" : "1709-1784 · English",
-        "es" : "1709-1784 · inglés"
-      },
-      "id" : "johnson",
-      "name" : "Samuel Johnson"
-    },
-    {
-      "accent" : "clayDeep",
-      "bio" : {
-        "en" : "Spanish philosopher of the tragic sense of life: the clash between the heart's hunger for meaning and the mind's refusal to grant it.",
-        "es" : "Filósofo español del sentimiento trágico de la vida: el choque entre el hambre de sentido del corazón y la negativa de la razón a concederlo."
-      },
-      "epithet" : {
-        "en" : "1864-1936 · Spanish",
-        "es" : "1864-1936 · español"
-      },
-      "id" : "unamuno",
-      "name" : "Miguel de Unamuno"
-    },
-    {
-      "accent" : "mauve",
-      "bio" : {
-        "en" : "Poet of the modern city and of spleen, who found terrible beauty in decay and made it the subject of art. The patron of the romance of sorrow, and its sharpest witness.",
-        "es" : "Poeta de la ciudad moderna y del spleen, que halló una belleza terrible en la decadencia y la hizo materia del arte. El patrono del romance de la tristeza, y su testigo más agudo."
-      },
-      "epithet" : {
-        "en" : "1821-1867 · French",
-        "es" : "1821-1867 · francés"
-      },
-      "id" : "baudelaire",
-      "name" : "Charles Baudelaire"
-    },
-    {
-      "accent" : "sky",
-      "bio" : {
-        "en" : "Italian poet of cosmic pessimism, who wrote some of the most beautiful lines ever set against the bleakest view of existence.",
-        "es" : "Poeta italiano del pesimismo cósmico, que escribió algunos de los versos más hermosos jamás puestos frente a la visión más sombría de la existencia."
-      },
-      "epithet" : {
-        "en" : "1798-1837 · Italian",
-        "es" : "1798-1837 · italiano"
-      },
-      "id" : "leopardi",
-      "name" : "Giacomo Leopardi"
-    },
-    {
-      "accent" : "peach",
-      "bio" : {
-        "en" : "American poet who wrote, from near-total seclusion, the most precise anatomy of pain, death, and the soul that we have.",
-        "es" : "Poeta estadounidense que escribió, desde un retiro casi total, la anatomía más precisa que tenemos del dolor, la muerte y el alma."
-      },
-      "epithet" : {
-        "en" : "1830-1886 · American",
-        "es" : "1830-1886 · estadounidense"
-      },
-      "id" : "dickinson",
-      "name" : "Emily Dickinson"
-    },
-    {
-      "accent" : "peach",
-      "bio" : {
-        "en" : "English Romantic who died at twenty-five, and who understood better than anyone how close beauty, joy, and death stand to one another.",
-        "es" : "Romántico inglés que murió a los veinticinco, y que entendió mejor que nadie lo cerca que están la belleza, la dicha y la muerte."
-      },
-      "epithet" : {
-        "en" : "1795-1821 · English",
-        "es" : "1795-1821 · inglés"
-      },
-      "id" : "keats",
-      "name" : "John Keats"
-    },
-    {
-      "accent" : "mauve",
-      "bio" : {
-        "en" : "Priest and poet whose terrible sonnets record despair in a language wrenched into new shapes by the force of it.",
-        "es" : "Sacerdote y poeta cuyos sonetos terribles registran la desesperación en un lenguaje retorcido en formas nuevas por la fuerza de ella."
-      },
-      "epithet" : {
-        "en" : "1844-1889 · English",
-        "es" : "1844-1889 · inglés"
-      },
-      "id" : "hopkins",
-      "name" : "Gerard Manley Hopkins"
-    },
-    {
-      "accent" : "clayDeep",
-      "bio" : {
-        "en" : "American master of dread and grief, who turned mourning and the macabre into exacting art, and knew exactly what he was doing.",
-        "es" : "Maestro estadounidense del pavor y el duelo, que convirtió el luto y lo macabro en arte exacto, y sabía muy bien lo que hacía."
-      },
-      "epithet" : {
-        "en" : "1809-1849 · American",
-        "es" : "1809-1849 · estadounidense"
-      },
-      "id" : "poe",
-      "name" : "Edgar Allan Poe"
-    },
-    {
-      "accent" : "clay",
-      "bio" : {
-        "en" : "The Romantic celebrity, restless and self-dramatizing, who chased sensation as proof of being alive.",
-        "es" : "La celebridad romántica, inquieta y dada al autodrama, que persiguió la sensación como prueba de estar vivo."
-      },
-      "epithet" : {
-        "en" : "1788-1824 · English",
-        "es" : "1788-1824 · inglés"
-      },
-      "id" : "byron",
-      "name" : "Lord Byron"
-    },
-    {
-      "accent" : "sky",
-      "bio" : {
-        "en" : "Poet of the imagination and of its failure, who wrote dejection from the inside while it stole his power to write.",
-        "es" : "Poeta de la imaginación y de su fracaso, que escribió el abatimiento desde dentro mientras este le robaba el poder de escribir."
-      },
-      "epithet" : {
-        "en" : "1772-1834 · English",
-        "es" : "1772-1834 · inglés"
-      },
-      "id" : "coleridge",
-      "name" : "Samuel Taylor Coleridge"
-    },
-    {
-      "accent" : "sage",
-      "bio" : {
-        "en" : "Poet of solitude, longing, and a beauty that borders on terror. His Letters to a Young Poet are a quiet instruction in being alone.",
-        "es" : "Poeta de la soledad, el anhelo y una belleza que linda con el terror. Sus Cartas a un joven poeta son una instrucción callada sobre estar a solas."
-      },
-      "epithet" : {
-        "en" : "1875-1926 · Prague-born, wrote in German",
-        "es" : "1875-1926 · nacido en Praga, escribió en alemán"
-      },
-      "id" : "rilke",
-      "name" : "Rainer Maria Rilke"
-    },
-    {
-      "accent" : "clayDeep",
-      "bio" : {
-        "en" : "Author of Paradise Lost, who gave despair and defiance their grandest English voice in the mouth of a fallen angel.",
-        "es" : "Autor de El paraíso perdido, que dio a la desesperación y al desafío su voz inglesa más grandiosa en boca de un ángel caído."
-      },
-      "epithet" : {
-        "en" : "1608-1674 · English",
-        "es" : "1608-1674 · inglés"
-      },
-      "id" : "milton",
-      "name" : "John Milton"
-    },
-    {
-      "accent" : "sky",
-      "bio" : {
-        "en" : "Metaphysical poet and preacher who wrote about death and human connection with equal, startling force.",
-        "es" : "Poeta metafísico y predicador que escribió sobre la muerte y el vínculo humano con una fuerza igual y sorprendente."
-      },
-      "epithet" : {
-        "en" : "1572-1631 · English",
-        "es" : "1572-1631 · inglés"
-      },
-      "id" : "donne",
-      "name" : "John Donne"
-    },
-    {
-      "accent" : "peach",
-      "bio" : {
-        "en" : "Spanish Romantic poet of love, loss, and the loneliness of the dead. Spare, musical, and sad.",
-        "es" : "Poeta romántico español del amor, la pérdida y la soledad de los muertos. Sobrio, musical y triste."
-      },
-      "epithet" : {
-        "en" : "1836-1870 · Spanish",
-        "es" : "1836-1870 · español"
-      },
-      "id" : "becquer",
-      "name" : "Gustavo Adolfo Bécquer"
-    },
-    {
-      "accent" : "mauve",
-      "bio" : {
-        "en" : "Mexican nun, scholar, and poet of the Baroque, who defended the life of the mind against a world that wanted her silent.",
-        "es" : "Monja, erudita y poeta mexicana del Barroco, que defendió la vida del intelecto contra un mundo que la quería callada."
-      },
-      "epithet" : {
-        "en" : "1648-1695 · Mexican",
-        "es" : "1648-1695 · mexicana"
-      },
-      "id" : "sorjuana",
-      "name" : "Sor Juana Inés de la Cruz"
+      "id": "sorjuana",
+      "name": "Sor Juana Inés de la Cruz"
     }
   ]
 }
